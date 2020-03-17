@@ -80,7 +80,7 @@ resource "aws_security_group" "Helpful Engineer DevOps-SG" {
 }
 
 
-/*----------------  Virtual Machine ----------------
+/*----------------  Virtual Machine ---------------- */
 
 resource "aws_instance" "HE-Utility" {
 	ami = "${data.aws_ami.CENTOS.id}"
