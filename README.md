@@ -1,1 +1,3 @@
-# devops
+# DevOps
+
+Repository for automation scripts.
