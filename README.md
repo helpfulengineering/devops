@@ -24,7 +24,7 @@ Check out the directory below
 
 - AWS: @Chris Mac @skuenzli
 - Azure: @Jonathan Vermeij @Troy Witthoeft
-- Central project & volunteer list/AirTable: @psprings @jonnyparris
+- Central project & volunteer list/AirTable: @psprings @ken @jonnyparris
 - CRM/Odoo: @Matt Melton @Ray Carnes
 - GitHub: @Frank Prins  @0x2b3bfa0
 - helpfulengineering.org website - @Charles He
