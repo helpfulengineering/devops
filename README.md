@@ -23,20 +23,7 @@ Please **[create a repository request issue](https://github.com/helpfulengineeri
 
 ### Who should I ask about X?
 
-Check out the directory below
+Follow the directory link below
 
-## Directory
+# [Directory](documentation/directory.md)
 
-### Services
-
-- AWS: [@Chris Mac](https://helpfulengineering.slack.com/team/U0101D9734M) and [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9)
-- Azure: [@Jonathan Vermeij](https://helpfulengineering.slack.com/team/UV40B6S82) and [@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83)
-- Central project and volunteer list / AirTable: [@psprings](https://helpfulengineering.slack.com/team/U010AK510F2), [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E)
-- CRM / Odoo: [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU)
-- GitHub: [@Frank Prins](https://helpfulengineering.slack.com/team/U010740NECE) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)
-- https://helpfulengineering.org website: [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD)
-- Onboarding Wiki / Notion: [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7)
-- SAML / Auth0: [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4)
-
-### Projects
-- [\#project-monitoring-o2](https://helpfulengineering.slack.com/archives/CV52VNTJM): [@Daniel Pritchett](https://helpfulengineering.slack.com/team/UVACS1MFF)
