@@ -2,12 +2,13 @@
 
 Welcome to the Helpful Engineering DevOps team.  We have our FAQ below and more documentation will be in the repo.
 
+***
 
-## FAQ
+## :question: FAQ
 
 ### How do I get help?
 
-Click the lightning bolt in the header of the slack channel and select “Help Request”
+Click the lightning bolt (:zap:) in the header of the slack channel and select «**Help Request**»
 
 ### How do I help out?
 
@@ -25,5 +26,7 @@ Please **[create a repository request issue](https://github.com/helpfulengineeri
 
 Follow the directory link below
 
-# [Directory](documentation/directory.md)
+***
 
+## :clipboard: [Directory](/documentation/directory.md)
+**You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
