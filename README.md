@@ -1,5 +1,8 @@
 # [Helpful Engineering DevOps Team](https://helpfulengineering.slack.com/archives/CV54M16QH)
 
+Welcome to the Helpful Engineering DevOps team.  We have our FAQ below and more documentation will be in the repo.
+
+
 ## FAQ
 
 ### How do I get help?
