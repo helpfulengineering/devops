@@ -14,6 +14,10 @@ Fill out our skill survey at https://airtable.com/shrisE8yL9W3cegHr and check ou
 
 Daily at 1500 PT/2200 GMT on zoom: https://zoom.us/j/471016936?pwd=cXh2RWFib2F4RU1ldVZPM3BNdkcrQT09
 
+### How can I transfer/create a repository under this organization?
+
+Please **[create a repository request issue](https://github.com/helpfulengineering/devops/issues/new?assignees=0x2b3bfa0%2C+PrinsFrank&labels=repository+request&template=repository-request.md&title=Repository+request%3A+%5Bproject-name%5D)** and fill the required information.
+
 ### Who should I ask about X?
 
 Check out the directory below
