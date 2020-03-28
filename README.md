@@ -1,13 +1,14 @@
 # [Helpful Engineering DevOps Team](https://helpfulengineering.slack.com/archives/CV54M16QH)
 
-Welcome to the Helpful Engineering DevOps team.  We have our FAQ below and more documentation will be in the repo.
+Welcome to the Helpful Engineering DevOps team. Please check our FAQ below and the documentation in the repository.
 
+***
 
-## FAQ
+## :question: FAQ
 
 ### How do I get help?
 
-Click the lightning bolt in the header of the slack channel and select “Help Request”
+Click the lightning bolt (:zap:) in the header of the slack channel and select «**Help Request**»
 
 ### How do I help out?
 
@@ -23,20 +24,17 @@ Please **[create a repository request issue](https://github.com/helpfulengineeri
 
 ### Who should I ask about X?
 
-Check out the directory below
+Follow the directory link below
 
-## Directory
+***
 
-### Services
+## :clipboard: [Directory](/documentation/directory.md)
+| Role | Slack |
+ | --- | --- |
+| Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)**, [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E) |
+| Github Support | [@Frank Prins](https://helpfulengineering.slack.com/team/U010740NECE) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) |
+| CRM / Odoo | [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU) |
+| [Main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
+| Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
 
-- AWS: [@Chris Mac](https://helpfulengineering.slack.com/team/U0101D9734M) and [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9)
-- Azure: [@Jonathan Vermeij](https://helpfulengineering.slack.com/team/UV40B6S82) and [@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83)
-- Central project and volunteer list / AirTable: [@psprings](https://helpfulengineering.slack.com/team/U010AK510F2), [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E)
-- CRM / Odoo: [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU)
-- GitHub: [@Frank Prins](https://helpfulengineering.slack.com/team/U010740NECE) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)
-- https://helpfulengineering.org website: [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD)
-- Onboarding Wiki / Notion: [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7)
-- SAML / Auth0: [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4)
-
-### Projects
-- [\#project-monitoring-o2](https://helpfulengineering.slack.com/archives/CV52VNTJM): [@Daniel Pritchett](https://helpfulengineering.slack.com/team/UVACS1MFF)
+**You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
