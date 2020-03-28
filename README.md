@@ -29,4 +29,9 @@ Follow the directory link below
 ***
 
 ## :clipboard: [Directory](/documentation/directory.md)
+| Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)**, [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E) |
+| Github Support | [@Frank Prins](https://helpfulengineering.slack.com/team/U010740NECE) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) |
+| CRM / Odoo | [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU) |
+| [Main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
+| Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
 **You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
