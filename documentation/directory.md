@@ -15,3 +15,21 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 <!-- Ideally -->
 Each project keeps its own team directory [inside its main repository](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
 
+
+# Unassigned Volunteers
+
+| Name | Experience/Skills | Notes |
+| ---   | --- | --- | --- |
+| [David Perkalis](https://app.slack.com/team/U01052T7XND) | Azure/MSFT stack ||
+| [James King](https://app.slack.com/team/U0107RL042Y) | AWS / GCP / Azure | reserve Army Corps of Engineers |
+| [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
+| [Owen](https://app.slack.com/team/U0100NN6CS1) | AWS (specialize in Lambda), Python ||
+| [Peter](https://app.slack.com/team/U010AK510F2) | AWS | already working with [#project-user-database](https://helpfulengineering.slack.com/archives/C010GTD5US0) and [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR) |
+| [Ramsey Sareth](https://app.slack.com/team/U010DLRQW0J) | AWS ||
+| [Rebecca Johns](https://app.slack.com/team/U0108S72KL4) | docker, K8s, AWS/GCP/Azure, sysadmin ||
+| [Shelia Loekito](https://app.slack.com/team/U010M0PL71R) | AWS, Go, Python ||
+| [Sri](https://app.slack.com/team/U010VVB2CVB) | AWS, Terraform/Terragrunt, Vault ||
+| [Uwe Janner](https://app.slack.com/team/U010JJGPQ7K) | Fullstack Java/JS/Node/Angular, AWS | also has  technical project manager experience |
+| [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
+| [William Riley-Land](https://app.slack.com/team/U0107N17B0D) | node backend, react, AWS (CloudFormation in particular) ||
+
