@@ -19,7 +19,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 # Unassigned Volunteers
 
 | Name | Experience/Skills | Notes |
-| ---   | --- | --- | --- |
+| --- | --- | --- |
 | [David Perkalis](https://app.slack.com/team/U01052T7XND) | Azure/MSFT stack ||
 | [James King](https://app.slack.com/team/U0107RL042Y) | AWS / GCP / Azure | reserve Army Corps of Engineers |
 | [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
