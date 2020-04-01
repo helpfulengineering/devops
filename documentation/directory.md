@@ -27,7 +27,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Peter](https://app.slack.com/team/U010AK510F2) | AWS | already working with [#project-user-database](https://helpfulengineering.slack.com/archives/C010GTD5US0) and [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR) |
 | [Ramsey Sareth](https://app.slack.com/team/U010DLRQW0J) | AWS ||
 | [Rebecca Johns](https://app.slack.com/team/U0108S72KL4) | docker, K8s, AWS/GCP/Azure, sysadmin ||
-| [Shelia Loekito](https://app.slack.com/team/U010M0PL71R) | AWS, Go, Python ||
+| [Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H) | AWS, Go, Python, backend ||
 | [Sri](https://app.slack.com/team/U010VVB2CVB) | AWS, Terraform/Terragrunt, Vault ||
 | [Uwe Janner](https://app.slack.com/team/U010JJGPQ7K) | Fullstack Java/JS/Node/Angular, AWS | also has  technical project manager experience |
 | [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
