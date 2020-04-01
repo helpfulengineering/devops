@@ -32,4 +32,4 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Uwe Janner](https://app.slack.com/team/U010JJGPQ7K) | Fullstack Java/JS/Node/Angular, AWS | also has  technical project manager experience |
 | [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
 | [William Riley-Land](https://app.slack.com/team/U0107N17B0D) | node backend, react, AWS (CloudFormation in particular) ||
-
+| [Mitul Savani](https://app.slack.com/team/U01122NCA1L) | GCP ||
