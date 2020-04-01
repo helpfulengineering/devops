@@ -1,5 +1,7 @@
 # Directory
 
+## Core teams
+
 | Role | Slack |
 | --- | --- |
 | **Main point of contact** | [**@dmangot**](https://helpfulengineering.slack.com/team/UV9R7QTU3) |
@@ -9,6 +11,14 @@
 | Auth Team | **[@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV)** and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4) |
 
 _Note: **@usernames** in bold denote the primary point of contact for each team._
+
+## Liaison Teams
+
+| Team | Members |
+| --- | --- |
+| Team 1 | |
+| Team 2 | |
+| Team 3 | |
 
 # [Projects](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
 
