@@ -25,7 +25,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
 | [Owen](https://app.slack.com/team/U0100NN6CS1) | AWS (specialize in Lambda), Python ||
 | [Peter](https://app.slack.com/team/U010AK510F2) | AWS | already working with [#project-user-database](https://helpfulengineering.slack.com/archives/C010GTD5US0) and [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR) |
-| [Ramsey Sareth](https://app.slack.com/team/U010DLRQW0J) | AWS ||
+| [Rasmey Sareth](https://app.slack.com/team/U010DLRQW0J) | AWS, docker, python ||
 | [Rebecca Johns](https://app.slack.com/team/U0108S72KL4) | docker, K8s, AWS/GCP/Azure, sysadmin ||
 | [Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H) | AWS, Go, Python, backend development ||
 | [Sri](https://app.slack.com/team/U010VVB2CVB) | AWS, Terraform/Terragrunt, Vault ||
