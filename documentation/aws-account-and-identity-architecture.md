@@ -49,7 +49,7 @@ accounts for prototyping, security, and governance.  The Helpful Engineering AWS
 ```
 HelpfulEng AWS Org
 └ Core
-  └ Security
+  └ Log
   └ Audit
 └ Sandboxes
   └ he-sandbox2
@@ -77,9 +77,10 @@ provides a number of security and governance best practices out of the box.
 
 **Core Accounts**
 
-The `Security` account contains the organization's security logs such as CloudTrail logs.
+The `Log` account contains the organization's API activity logs (CloudTrail) and resource configurations (Config).
 
-The `Audit` account contains the organization's audit findings such as Config and GuardDuty reports.
+The `Audit` account is a restricted account that gives security and compliance teams read and write access to all 
+accounts in the landing zone.
 
 ** Sandbox Accounts **
 
