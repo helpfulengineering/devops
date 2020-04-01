@@ -15,6 +15,11 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 <!-- Ideally -->
 Each project keeps its own team directory [inside its main repository](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
 
+## Project Contacts
+
+* [@Dan Sabin](https://app.slack.com/team/U0109F77AM6) - [Reach4Help](https://reach4help.org/) ([github](https://github.com/reach4help/))
+* [@Daniel Pritchett](https://app.slack.com/team/UVACS1MFF) - [CoVital](https://www.covital.org/) ([github](https://github.com/CoVital-Project))
+* [@peter](https://app.slack.com/team/U010AK510F2) - [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR) and #project-user-database 
 
 # Unassigned Volunteers
 
