@@ -20,11 +20,16 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 | [CoVital](https://www.covital.org/) |[@Daniel Pritchett](https://app.slack.com/team/UVACS1MFF) |
 | [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR)  | [@peter](https://app.slack.com/team/U010AK510F2)|
 | #project-user-database | [@peter](https://app.slack.com/team/U010AK510F2)|
+| https://hospitalheros.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) |
 
 # [Projects](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
 
 <!-- Ideally -->
-Each project keeps its own team directory [inside its main repository](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
+Each project keeps its own team directory [inside its main repository](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories).
+Known project team members listed below
+
+Reach4Help
+* [@Joseph Ashwin](https://helpfulengineering.slack.com/team/U010ZPFB38V)
 
 # Unassigned Volunteers
 
@@ -45,4 +50,5 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) | AWS, Python, Go, docker, kubernetes, SRE in general | my [bio](http://wecloudpro.com)|
 | [Mike Barker](https://app.slack.com/team/U01011R4WG4) | scrum master / project manager | not a developer |
 | [Jacob Anavisca](https://app.slack.com/team/U01101ZFS9K) | AWS / GCP ||
-| [Joseph Ashwin](https://helpfulengineering.slack.com/team/U010ZPFB38V) | AWS (EBS, EC2, RDS, S3) / GCP (GAE, Cloud SQL, Compute Engine, Storage, Firestore, Cloud Functions) / Firebase (All Services) / Python (Core, Flask, Django) / Node.js (Express.js, Hapi) / PHP (Laravel, Codeignitor, Core) / React / Mobile (React Native) / CI/CD (Gitlab CI/CD) | Interested in and Learning DevOps tools like Kubernetes, Ansible, would love to work on them, Also a blockchain enthusiast, still learning but have developed apps on Ethereum and Quarum networks. My [Bio](https://drive.google.com/open?id=1ahxcLoFCTOULmBum6P_OTZSam1rwuOU1) |
+| [Alex Cruise](https://app.slack.com/team/U0103G54D9Q) | Big data architecture, streaming/real-time, time series ||
+| [Dave Gilbert](https://app.slack.com/team/UVBMWDSKT) | project liaison, support/TAM experience ||
