@@ -30,6 +30,7 @@ Known project team members listed below
 
 Reach4Help
 * [@Joseph Ashwin](https://helpfulengineering.slack.com/team/U010ZPFB38V)
+* [@Mathieu Deous](https://app.slack.com/team/UV7BTDZ97)
 
 # Unassigned Volunteers
 
