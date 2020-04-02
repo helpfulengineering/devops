@@ -35,7 +35,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 
 | Name | Experience/Skills | Notes |
 | --- | --- | --- |
-| [@AlexV](https://app.slack.com/team/UVATNL8HY) | InfoSec(GDPR,SOC2,ISO2700x,CCPA,NIMS,FedRAMP,IDS/IPS,Container security,vulnerability management), DevOps(AWS,GCP,Kubernetes,Docker,Terraform,Python,CI/CD), Public Safety Industry, currently working on #Reach4Help. [LinkedIN](https://www.linkedin.com/in/vanino)  |
+| [@AlexV](https://app.slack.com/team/UVATNL8HY) | InfoSec(GDPR,SOC2,ISO2700x,CCPA,NIMS,FedRAMP,IDS/IPS,Container/App security,vulnerability management), DevOps(AWS,GCP,Kubernetes,Docker,Terraform,Python,CI/CD) | Public Safety Industry(RapidSOS), Founder: [CheckUpOn.Me](https://checkupon.me)(Part of [Reach4Help](https://reach4help.org/)), [LinkedIN](https://www.linkedin.com/in/vanino) |
 | [David Perkalis](https://app.slack.com/team/U01052T7XND) | Azure/MSFT stack ||
 | [James King](https://app.slack.com/team/U0107RL042Y) | AWS / GCP / Azure | reserve Army Corps of Engineers |
 | [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
