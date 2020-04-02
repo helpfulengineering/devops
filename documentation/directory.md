@@ -47,4 +47,4 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
 | [William Riley-Land](https://app.slack.com/team/U0107N17B0D) | node backend, react, AWS (CloudFormation in particular) ||
 | [Mitul Savani](https://app.slack.com/team/U01122NCA1L) | GCP ||
-| [Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) | AWS, Python, Go, docker, kubernetes, SRE in general | my [bio] (http://wecloudpro.com)|
+| [Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) | AWS, Python, Go, docker, kubernetes, SRE in general | my [bio](http://wecloudpro.com)|
