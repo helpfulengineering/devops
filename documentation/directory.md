@@ -43,8 +43,6 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [William Riley-Land](https://app.slack.com/team/U0107N17B0D) | node backend, react, AWS (CloudFormation in particular) ||
 | [Mitul Savani](https://app.slack.com/team/U01122NCA1L) | GCP ||
 | [Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) | AWS, Python, Go, docker, kubernetes, SRE in general | my [bio](http://wecloudpro.com)|
-
 | [Mike Barker](https://app.slack.com/team/U01011R4WG4) | scrum master / project manager | not a developer |
 
 | [Jacob Anavisca](https://app.slack.com/team/U01101ZFS9K) | AWS / GCP ||
-
