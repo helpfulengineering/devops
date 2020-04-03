@@ -27,7 +27,7 @@ The solution should:
 
 ### UC1 - Deliver & Operate Applications Independently
 
-HelpfulEng project teams and deployments are independent, do not generally depend on each other, and expect a high 
+Helpful Engineering project teams and deployments are independent, do not generally depend on each other, and expect a high 
 degree of autonomy. Project teams need to be able to develop applications, deliver them, and perform some amount of 
 operational activities in a self-service, low coordination manner.
 
@@ -37,7 +37,7 @@ encourage automated configurations delivery and operation to production. The Dev
 
 ### UC2 - Provision Accounts
 
-The HelpfulEng DevOps team will provision AWS accounts for both shared and project delivery accounts. The DevOps team
+The Helpful Engineering DevOps team will provision AWS accounts for both shared and project delivery accounts. The DevOps team
 would like provision these accounts in a standardized way with low effort and simple adoption of Cloud security and
 governance practices.
 
@@ -47,20 +47,20 @@ This design provisions a set of AWS accounts for each project team to deliver th
 accounts for prototyping, security, and governance. The Helpful Engineering AWS Organization will look like: 
 
 ```
-HelpfulEng AWS Org
-└ Core
-  └ Log
-  └ Audit
-└ Sandboxes
-  └ he-sandbox2
-└ Project Delivery
-  └ Monitoring O2
-    └ he-project-monitoring-O2-dev
-    └ he-project-monitoring-O2-prod
-  └ <project name>
-    └ he-<project name>-dev
-    └ he-<project name>-prod
-  └ ...
+AWS
+├── Core
+│   ├── Log
+│   └── Audit
+├── Sandboxes
+│   └── he-sandbox2
+└── Project Delivery
+    ├── Monitoring O2
+    │   ├── he-project-monitoring-O2-dev
+    │   └── he-project-monitoring-O2-prod
+    ├── <project name>
+    │   ├── he-<project name>-dev
+    │   └── he-<project name>-prod
+    └── ···
 ```
 
 The design accommodates the wide set of people, skills, and techniques used throughout Helpful Engineering and scopes the
