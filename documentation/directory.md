@@ -12,25 +12,20 @@
 
 _Note: **@usernames** in bold denote the primary point of contact for each team._
 
-## Liaison Teams
-
-| Team | Members |
-| --- | --- |
-| [Reach4Help](https://reach4help.org/) | [@Dan Sabin](https://app.slack.com/team/U0109F77AM6)|
-| [CoVital](https://www.covital.org/) |[@Daniel Pritchett](https://app.slack.com/team/UVACS1MFF) |
-| [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR)  | [@peter](https://app.slack.com/team/U010AK510F2)|
-| #project-user-database | [@peter](https://app.slack.com/team/U010AK510F2)|
-| https://hospitalheros.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) |
-
 # [Projects](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
 
 <!-- Ideally -->
 Each project keeps its own team directory [inside its main repository](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories).
-Known project team members listed below
 
-Reach4Help
-* [@Joseph Ashwin](https://helpfulengineering.slack.com/team/U010ZPFB38V)
-* [@Mathieu Deous](https://app.slack.com/team/UV7BTDZ97)
+## Liaison Teams
+
+| Team | Liaison | Other Team Members |
+| --- | --- | --- |
+| [Reach4Help](https://reach4help.org/) | [@Dan Sabin](https://app.slack.com/team/U0109F77AM6)| [@Joseph Ashwin](https://helpfulengineering.slack.com/team/U010ZPFB38V), [@Mathieu Deous](https://app.slack.com/team/UV7BTDZ97) |
+| [CoVital](https://www.covital.org/) |[@Daniel Pritchett](https://app.slack.com/team/UVACS1MFF) ||
+| [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR)  | [@peter](https://app.slack.com/team/U010AK510F2)||
+| #project-user-database | [@peter](https://app.slack.com/team/U010AK510F2)||
+| https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
 
 # Unassigned Volunteers
 
