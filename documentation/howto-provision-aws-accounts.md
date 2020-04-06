@@ -50,11 +50,11 @@ Construct the AWS account name from one of the following forms, all lower case:
 
 Back at the 'Account Factory' screen, click 'Quick Account Provisioning'.
 
-Configure the account's root user email to the devops team email address plus the AWS account name.  
+Configure the account's root user email to the devops team email address plus the AWS account name: `devops+he-project-<project name>-<env name>@qualimente.com`
 
-Configure the display name to the AWS account name.
+Configure the display name to the AWS account with `<project name>-<env name>`.
 
-Set the AWS SSO user name to first name 'Admin', last name '<project name>'
+Set the AWS SSO user name to first name 'Admin', last name '`<project name>`'
  
 Select the 'Project Delivery' OU for a project delivery account, Custom otherwise.
 
