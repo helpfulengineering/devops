@@ -47,7 +47,7 @@ This design provisions a set of GCP accounts for each project team to deliver th
 accounts for prototyping, security, and governance. The Helpful Engineering GCP Organization will look like: 
 
 ```
-HelpfulEng GCP Org
+helpfulengineering.org Org
 └ Core
   └ Log
   └ Audit
@@ -55,11 +55,11 @@ HelpfulEng GCP Org
   └ helpful-gcp-sandbox2
 └ Project Delivery
   └ Monitoring O2
-    └ he-project-monitoring-O2-dev
-    └ he-project-monitoring-O2-prod
+    └ helpful-project-monitoring-O2-dev
+    └ helpful-project-monitoring-O2-prod
   └ <project name>
-    └ he-<project name>-dev
-    └ he-<project name>-prod
+    └ helpful-<project name>-dev
+    └ helpful-<project name>-prod
   └ ...
 ```
 
@@ -68,8 +68,7 @@ management, fault, and security domain to the project team.  Using separate GCP 
 creates a strong security boundary between teams that isolates each project's activities, resources, and
 data from each other.  
 
-The Helpful Engineering GCP Organization OU will be configured to match the depicted hierarchy. This OU 
-structure enables use of both shared and project-specific Service Control Policy.
+The Helpful Engineering GCP Organization will be configured to match the depicted hierarchy. This Organization structure enables use of both shared and project-specific Service Control Policy.
 
 The DevOps team will use [GCP Cloud Identity](https://cloud.google.com/identity/docs) 
 to provision both the shared and project accounts. Control Tower provides a simple account provisioning model that
@@ -100,10 +99,7 @@ Project teams should adopt automated continuous integration to build application
 stored in:
  
 * A trusted external repository such as Docker Hub.
-* An internal repository such as an S3 bucket hosted within a project account as is the case for the Serverless Framework.
+* An internal repository such as a [Cloud Storage](https://cloud.google.com/storage/)  bucket hosted within a project account as is the case for the Serverless Framework.
 
 The DevOps team recommends that project teams adopt automated continuous delivery to deploy and configure applications.
 
-## Resources
-
-* [How Should I Organize My GCP Accounts](https://nodramadevops.com/2019/01/how-should-i-organize-my-aws-accounts/)
