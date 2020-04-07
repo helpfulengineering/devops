@@ -120,7 +120,7 @@ The DevOps team recommends that project teams adopt automated continuous deliver
 
 **Identities**
 
-Each project account will have a limited set of IAM roles for people and services. Helpful Engineers will use the
+Each project account will have a limited set of IAM roles for people and services. Helpful engineers will use the
 people roles to access the account and configure resources. Helpful Engineering automation and applications will use 
 service roles to deliver and operate applications. 
 
