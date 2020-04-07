@@ -36,6 +36,6 @@ Follow the directory link below
 | CRM / Odoo | [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU) in [#discussion-odoo-resources](https://app.slack.com/client/TUTSYURT3/G010L29KJ4E)|
 | [Main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
 | Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
-| MATLAB / Simulink | @Kirthi |
+| MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
 
 **You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
