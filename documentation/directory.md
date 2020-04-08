@@ -25,7 +25,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [CoVital](https://www.covital.org/) |[@Daniel Pritchett](https://app.slack.com/team/UVACS1MFF) ||
 | [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR)  | [@peter](https://app.slack.com/team/U010AK510F2)||
 | #project-user-database | [@peter](https://app.slack.com/team/U010AK510F2)||
-| [#project-manufacturer-database](https://helpfulengineering.slack.com/archives/C010GTD5US0)| TBD | [@Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H) |
+| [#project-manufacturer-database](https://helpfulengineering.slack.com/archives/C010GTD5US0)| unknown | [@Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H) |
 | https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
 
 # Unassigned Volunteers
