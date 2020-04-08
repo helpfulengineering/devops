@@ -25,6 +25,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [CoVital](https://www.covital.org/) |[@Daniel Pritchett](https://app.slack.com/team/UVACS1MFF) ||
 | [#project-hospitals-in-need](https://helpfulengineering.slack.com/archives/C010UK6GQPR)  | [@peter](https://app.slack.com/team/U010AK510F2)||
 | #project-user-database | [@peter](https://app.slack.com/team/U010AK510F2)||
+| [#project-manufacturer-database](https://helpfulengineering.slack.com/archives/C010GTD5US0)| TBD | [@Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H) |
 | https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
 
 # Unassigned Volunteers
@@ -37,7 +38,6 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
 | [Owen](https://app.slack.com/team/U0100NN6CS1) | AWS (specialize in Lambda), Python ||
 | [Rasmey Sareth](https://app.slack.com/team/U010DLRQW0J) | AWS, terraform, docker, python ||
-| [Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H) | AWS, Go, Python, backend development ||
 | [Sri](https://app.slack.com/team/U010VVB2CVB) | AWS, Terraform/Terragrunt, Vault ||
 | [Uwe Janner](https://app.slack.com/team/U010JJGPQ7K) | Fullstack Java/JS/Node/Angular, AWS | also has  technical project manager experience |
 | [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
