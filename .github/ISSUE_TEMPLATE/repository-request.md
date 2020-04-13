@@ -20,7 +20,7 @@ assignees: 0x2b3bfa0, PrinsFrank
 ## I want to license the data under...
 
 - [x] Hardware and/or firmware: CERN-OHL-P
-- [ ] Software: Blue Oak License 1.0.0
+- [ ] Software: Apache License, Version 2.0
 - [ ] Guides, instructional videos, and other materials: Creative Commons Attribution 4.0
 
-**Refer to the [official licensing guide](https://helpfulengineering.slack.com/archives/C010GJ68R1N/p1584974903050100)**
+**Source:** [official licensing guide](/documentation/license-guide.md)

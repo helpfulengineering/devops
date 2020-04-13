@@ -1,8 +1,4 @@
 # Licensing guide 
-> Original posted [on Slack](https://helpfulengineering.slack.com/archives/C010GJ68R1N/p1584974903050100) on 2020-03-23. 
-> Update posted [on Slack](https://helpfulengineering.slack.com/archives/CV54M16QH/p1586710195030500?thread_ts=1586651264.027400&cid=CV54M16QH) on 2020-04-12.
-> Written by [@Stuart Cobbe](https://app.slack.com/team/U0100FNSDTN).
-> Transcribed for the github repo by [@devhawk](https://app.slack.com/team/U01022TG4EB)
 
 Please use this guide if you do not have an open source license on your work. If you do, leave the one that you have as it is easier.
 
@@ -49,3 +45,9 @@ A reference to this license should be included at the bottom of vital documents,
 > All copyrightable materials  other than software, and everything needed to design, make, test and prepare the hardware for distribution, such as instructional videos and manuals, are published under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) License.
 
 As a follow up, we will be asking all contributors to acknowledge that their designs are open source via the following link.
+
+***
+
+**Source:** [original message](https://helpfulengineering.slack.com/archives/C010GJ68R1N/p1584974903050100) written by [@Stuart Cobbe](https://app.slack.com/team/U0100FNSDTN) on Slack on 2020-03-23 and [updated](https://helpfulengineering.slack.com/archives/CV54M16QH/p1586710195030500?thread_ts=1586651264.027400&cid=CV54M16QH) on 2020-04-12.
+
+Transcribed for the GitHub repo by [@devhawk](https://app.slack.com/team/U01022TG4EB).
