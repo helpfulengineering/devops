@@ -23,4 +23,4 @@ assignees: 0x2b3bfa0, PrinsFrank
 - [ ] Software: Apache License, Version 2.0
 - [ ] Guides, instructional videos, and other materials: Creative Commons Attribution 4.0
 
-**Refer to the [official licensing guide](/documentation/license-guide.md)**
+**Source:** [official licensing guide](/documentation/license-guide.md)
