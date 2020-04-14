@@ -28,6 +28,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | #project-user-database | [@peter](https://app.slack.com/team/U010AK510F2)||
 | [#project-manufacturer-database](https://helpfulengineering.slack.com/archives/C010GTD5US0)| unknown | [@Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H), [@Sri](https://app.slack.com/team/U010VVB2CVB) |
 | https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
+| [#doc-controls](https://helpfulengineering.slack.com/archives/C010AN9RXNV) Notion integration| [@Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) ||
 
 # Unassigned Volunteers
 
@@ -43,7 +44,6 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
 | [William Riley-Land](https://app.slack.com/team/U0107N17B0D) | node backend, react, AWS (CloudFormation in particular) ||
 | [Mitul Savani](https://app.slack.com/team/U01122NCA1L) | GCP ||
-| [Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) | AWS, Python, Go, docker, kubernetes, SRE in general | my [bio](http://wecloudpro.com)|
 | [Mike Barker](https://app.slack.com/team/U01011R4WG4) | scrum master / project manager | not a developer |
 | [Jacob Anavisca](https://app.slack.com/team/U01101ZFS9K) | AWS / GCP ||
 | [Alex Cruise](https://app.slack.com/team/U0103G54D9Q) | Big data architecture, streaming/real-time, time series ||
