@@ -8,7 +8,7 @@ Welcome to the Helpful Engineering DevOps team. Please check our FAQ below and t
 
 ### How do I get help?
 
-Go to the [#skill-software-devops slack channel](https://helpfulengineering.slack.com/archives/CV54M16QH), click the blue lightning bolt (:zap:) in the lower left corner of the message box and select «**Request Help Workflow**»
+Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) Slack channel, click the blue lightning bolt (:zap:) in the lower left corner of the message box and select «**Request Help Workflow**»
 
 ![request help form](request-help-form.png)
 
