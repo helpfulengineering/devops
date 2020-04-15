@@ -32,7 +32,7 @@ Follow the directory link below
 
 ## :clipboard: [Directory](/documentation/directory.md)
 | Role | Slack |
- | --- | --- |
+| --- | --- |
 | Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)**, [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Auth0 | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Amazon Web Services (AWS) | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9), [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) and [@Chris Mac](https://helpfulengineering.slack.com/team/U0101D9734M) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
@@ -42,9 +42,9 @@ Follow the directory link below
 | Google Analytics |  |
 | Google Cloud Platform (GCP) | [@Rebecca Johns](https://app.slack.com/team/U0108S72KL4) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | [Helpful main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
-| [@Helpful Introduction Bot](https://helpfulengineering.slack.com/team/U010NSG33LH) | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
 | Launch Darkly | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
+| [@Onboarding assistant](https://helpfulengineering.slack.com/team/U010NSG33LH) | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
 | Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
 | Terraform Cloud | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Trello | |
