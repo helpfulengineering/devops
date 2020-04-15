@@ -39,6 +39,6 @@ Follow the directory link below
 | [Main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
 | Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
 | MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
-| [@Helpful Introduction Bot](https://helpfulengineering.slack.com/team/U010NSG33LH) | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
+| [@Onboarding assistant](https://helpfulengineering.slack.com/team/U010NSG33LH) | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
 
 **You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
