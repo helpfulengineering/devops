@@ -52,11 +52,11 @@ Second, a member of the relevant core Cloud team will take a quick look at the d
 know if it's ready for review.  If the document is ready for review, the core team member and requester will schedule
 a one hour video conference for the architecture review.     
 
-Third, conduct the architecture review meeting.  The review must be attended by at least one:
+Third, conduct the architecture review meeting.  The review should be attended by at least one:
 
 * project team leader
 * DevOps project team liaison
-* member of the involved core Cloud team(s) 
+* member of the supporting core Cloud team(s) 
 
 The project team leader or liaison will lead attendees through the design, starting from the customer and problem
 statement.  Record this meeting so that discussions are captured automatically for later reference and others can 
