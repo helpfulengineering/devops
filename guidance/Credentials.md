@@ -13,12 +13,13 @@ After your account is created send the email address you used to sign up to the 
 [Lastpass sharing documentation](https://helpdesk.lastpass.com/sharing-4-0/)
 
 # Changing Passwords
-Lastpass can also [generate secure random passwords](https://helpdesk.lastpass.com/generating-a-password/).  Please use the following settings when generating passwords
+When changing a password, you should [generate the new one with LastPass](https://helpdesk.lastpass.com/generating-a-password/) (or equivalent) using the following settings:
 
- - length > 12
- - Uppercase letter
- - Lowercase letter
- - Numbers
- - Symbols
+* **All characters**:
+  - [x] Uppercase
+  - [x] Lowercase
+  - [x] Numbers
+  - [x] Symbols
+* Length: **15 or more** characters.
 
 Once you change a password, please update the record in LastPass, so it's automatically shared with all the authorized users.
