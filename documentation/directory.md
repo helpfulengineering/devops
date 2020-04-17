@@ -10,7 +10,7 @@
 | GCP Team | **[@Rebecca Johns](https://app.slack.com/team/U0108S72KL4)** |
 | Auth Team | **[@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV)** and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4) | Administration of Auth0 Tenants, providing [authn/authz guidance](/guidance/authentication-and-authorization.md) and integration 
 | DNS Team |  | Administration of Helpful Engineering related DNS entries on (AWS/GCP?)
-| InfoSec Team | **[@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY)** | Security Assessments and review
+| Infosec Team | **[@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY)** | Security Assessments and review
 
 _Note: **@usernames** in bold denote the primary point of contact for each team._
 
