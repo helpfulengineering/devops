@@ -21,7 +21,7 @@ Lastpass can also [generate secure random passwords](https://helpdesk.lastpass.c
  - Numbers
  - Symbols
 ```
-![Lastpass Generate Password Settings](https://github.com/helpfulengineering/devops/master/guidance/GeneratePasswordSettings.png)
+![Lastpass Generate Password Settings](/guidance/GeneratePasswordSettings.png)
 ```
 
 If you change a password please update the record in lastpass, this will share the new passwords to all other authorized users.
