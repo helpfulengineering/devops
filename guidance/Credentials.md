@@ -1,6 +1,8 @@
 # Helpful Engineering Shared Credentials
 
-Whenever possible we should create separate accounts for each user.  However in some instances it will be required to share a single set of credentials (ex. social media accounts, HE email accounts, etc).  If we have to share credentials with multiple people we will do so using a tool called Lastpass.  **Credentials should NEVER be shared in plaintext.  Please only share with lastpass so passwords remain encrypted at all times.**
+Whenever possible, no account should be shared with other users.  However, in some instances (e.g. social media accounts, some email accounts, *et cetera*) it will be required to share a single set of credentials with multiple users using a tool called [LastPass](https://www.lastpass.com).
+
+ ⚠️ Credentials should **never** be shared outside LastPass: please **don't** send passwords in plaintext by any other means.
 
 ## LastPass master account
 The DevOps and Infosec teams maintain a master account where all credentials are stored and shared with the approved users. Passwords are being rotated regularly for security reasons, and the new ones will automatically synchronize in the other users' LastPass vaults.  
