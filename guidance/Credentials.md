@@ -12,7 +12,7 @@ After your account is created send the email address you used to sign up to the 
 
 [Lastpass sharing documentation](https://helpdesk.lastpass.com/sharing-4-0/)
 
-# Changing Passwords
+## Changing passwords
 When changing a password, you should [generate the new one with LastPass](https://helpdesk.lastpass.com/generating-a-password/) (or equivalent) using the following settings:
 
 * **All characters**:
