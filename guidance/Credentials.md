@@ -21,4 +21,4 @@ Lastpass can also [generate secure random passwords](https://helpdesk.lastpass.c
  - Numbers
  - Symbols
 
-If you change a password please update the record in lastpass, this will share the new passwords to all other authorized users.
+Once you change a password, please update the record in LastPass, so it's automatically shared with all the authorized users.
