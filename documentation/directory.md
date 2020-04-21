@@ -52,3 +52,4 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [Carlos Montemuiño](https://helpfulengineering.slack.com/team/U010ML28A67) | Scala / Java / Python / NodeJS / DevOps(AWS, Docker, Kubernetes, Terraform, CI/CD, Travis, Spinnaker), Data Engineering (S3, Redshift, Kinesis, Kafka, Spark) | I have experience in Data/ML pipelines |
 | [Niko Infanto](https://helpfulengineering.slack.com/team/U011L0X1JAW) | Java / SQL / HTML&CSS / Spring / Hibernate / PHP / ColdFusion | My Developer Profile Website [View](http://nikoinfanto.com)
 | [Mark Tagab](https://helpfulengineering.slack.com/team/TUTSYURT3)  | Java / Kubernetes / Docker / SQL / Digital Ocean /  Shell Scripts | interested in microservices and devops
+| [Ajit Nath](https://helpfulengineering.slack.com/team/U011BLH0WSK) | Python / Java / Clojure / Javascript / Docker / AWS / SQL and NoSQL DBs ||
