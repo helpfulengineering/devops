@@ -30,6 +30,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [#project-manufacturer-database](https://helpfulengineering.slack.com/archives/C010GTD5US0)| unknown | [@Sheila Loekito](https://helpfulengineering.slack.com/archives/D010M0PM29H), [@Sri](https://app.slack.com/team/U010VVB2CVB) |
 | https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
 | [#doc-controls](https://helpfulengineering.slack.com/archives/C010AN9RXNV) Notion integration| [@Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) ||
+| Mechanical Turk | [@Brian Campbell](https://app.slack.com/client/TUTSYURT3/D010CEFKSPJ) ||
 
 # Unassigned Volunteers
 
