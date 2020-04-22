@@ -45,8 +45,8 @@ Follow the directory link below
 | LastPass (secure password storage)| [Lastpass guide](/guidance/credential-sharing.md) or message [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) in [#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)|
 | Launch Darkly | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
-| [@Onboarding assistant](https://helpfulengineering.slack.com/team/U010NSG33LH) | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
 | Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
+| Slack automation | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
 | Terraform Cloud | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Trello | |
 | Zendesk | |
