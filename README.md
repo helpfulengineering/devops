@@ -50,5 +50,6 @@ Follow the directory link below
 | Terraform Cloud | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Trello | |
 | Zendesk | |
+| ZenQMS | [@Pierre Lonchampt](https://helpfulengineering.slack.com/team/U01019PPAQL)|
 
 **You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
