@@ -1,8 +1,8 @@
 # Helpful Engineering Shared Credentials
 
-Whenever possible, no account should be shared with other users.  However, in some instances (e.g. social media accounts, some email accounts, *et cetera*) it will be required to share a single set of credentials with multiple users by using a tool called **[1Password](https://1password.com)**.
+Whenever possible, no account should be shared with other users. However, in some instances (e.g. social media accounts, some email accounts, *et cetera*) it will be required to share a single set of credentials with multiple users by using a tool called **[1Password](https://1password.com)**.
 
-The DevOps and Infosec teams maintain a master account where all credentials are stored and shared with the approved users. Passwords are being rotated regularly for security reasons, and the new ones will automatically synchronize in the other users' 1Password vaults. 
+The DevOps and Infosec teams maintain a master account to store, manage and share the credentials with the approved users. Thereby, passwords will be automatically synchronized with the other users' 1Password vaults when they are periodically rotated for security reasons.
 
 :warning: Credentials should **never** be shared outside the password manager: please **do not** send passwords in plaintext by any other means.
 
