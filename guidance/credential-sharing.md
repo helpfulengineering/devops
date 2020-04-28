@@ -6,7 +6,7 @@ The DevOps and Infosec teams maintain a master account where all credentials are
 
 :warning: Credentials should **never** be shared outside the password manager: please **do not** send passwords in plaintext by any other means.
 
-## :book: Getting started
+## Getting started
 
 Just send your email address to the _Infosec_ team ([#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)) and you'll be added to 1Password with access to the shared secrets you're allowed to use. If you already have a 1Password account, use its email address when requesting access.
 
@@ -16,6 +16,6 @@ Now, you can proceed to set up your browser and devices following this guide: ht
 
 :warning: **Do not forget your master password nor your [secret key](https://support.1password.com/secret-key-security/)!** They are unique to you and cannot be reset by anybody; losing them will keep you from accessing all your passwords.
 
-## :lock: Changing passwords
+## Changing passwords
 
 When changing a password, you should generate the new one with the password manager, so it's automatically shared with all the authorized users. If you're not familiar with 1Password, please check this guide: https://support.1password.com/change-website-password/
