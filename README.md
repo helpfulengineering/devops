@@ -42,7 +42,7 @@ Follow the directory link below
 | Google Analytics |  |
 | Google Cloud Platform (GCP) | [@Rebecca Johns](https://app.slack.com/team/U0108S72KL4) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | [Helpful main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
-| LastPass (secure password storage)| [Lastpass guide](/guidance/credential-sharing.md) or message [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) in [#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)|
+| 1Password (secure password storage)| Read the [credential sharing guide](/guidance/credential-sharing.md) or message [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) in [#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)|
 | Launch Darkly | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
 | Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
