@@ -2,7 +2,7 @@
 
 Whenever possible, no account should be shared with other users. However, in some instances (e.g. social media accounts, some email accounts, *et cetera*) it will be required to share a single set of credentials with multiple users by using a tool called [1Password](https://1password.com).
 
-The DevOps and Infosec teams maintain a master account to store, manage and share the credentials with the approved users. Thereby, passwords will be automatically synchronized with the other users' 1Password vaults when they are periodically rotated for security reasons.
+The DevOps and Infosec teams maintain a master account to store, manage and share the credentials with the approved users, so secrets are automatically synchronized with the other users' 1Password vaults when they change.
 
 :warning: Credentials should **never** be shared outside the password manager: please **do not** send passwords in plaintext by any other means.
 
@@ -16,7 +16,9 @@ Once you receive an email from 1Password, you can proceed to set up your browser
 
 ## Changing passwords
 
-When changing a password, you should generate the new one with the password manager, so it's automatically shared with all the authorized users. If you're not familiar with 1Password, please check [this tutorial](https://support.1password.com/change-website-password/).
+When changing a password, you should generate the new one with the password manager, so it follows the best security practices and can be automatically shared with all the authorized users. If you're not familiar with 1Password, please check [this tutorial](https://support.1password.com/change-website-password/).
+
+<!--Passwords should be periodically changed for security reasons.-->
 
 ## [1Password user guide](https://support.1password.com)
 
