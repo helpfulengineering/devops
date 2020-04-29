@@ -8,7 +8,7 @@ The DevOps and Infosec teams maintain a master account to store, manage and shar
 
 ## Getting started
 
-Just send your email address to the _Infosec_ team ([#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)) and you'll be added to 1Password with access to the shared secrets you're allowed to use; if you already have a 1Password account, you can use the same email address when requesting access. Your request will need to be approved by [@admin-group](https://helpfulengineering.slack.com/admin/user_groups) unless you already belong to it.
+Just send your email address through a Slack direct message to [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) and you'll be added to the 1Password team with access to the shared secrets you're allowed to use; if you already have a 1Password account, you can use the same email address when requesting access. Your request will need to be approved by [@admin-group](https://helpfulengineering.slack.com/admin/user_groups) unless you already belong to it.
 
 Once you receive an email from 1Password, you can proceed to set up your browser and devices following [this guide](https://support.1password.com/explore/team-member/)
 
