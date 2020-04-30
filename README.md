@@ -1,38 +1,25 @@
 # [Helpful Engineering DevOps Team](https://helpfulengineering.slack.com/archives/CV54M16QH)
 
-:wave: Welcome to the Helpful Engineering DevOps team. Please check our FAQ below and the documentation in the repository.
-
-***
-
 ## Getting help
 
 Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) Slack channel, click the blue lightning bolt (:zap:) in the lower left corner of the message box and select «**Request Help Workflow**»
 
 [![request help](/images/request-help.png)](https://helpfulengineering.slack.com/archives/CV54M16QH)
 
-### How do I help out?
+## Helping out
 
-Fill out our skill survey at https://airtable.com/shrisE8yL9W3cegHr and check out our Trello board at https://trello.com/invite/b/8TEQ0gH0/82b3cce6da639b5cebde085def1d2ede/skill-software-devops-projects
+1. Fill out [our skill survey](https://airtable.com/shrisE8yL9W3cegHr).
 
-### When are check-in meetings?
+2. Add yourself to the *unassigned volunteer* list in the [team directory](/documentation/team/directory.md).
 
-Daily at [22:00 UTC](https://google.com/seach?q=22:00%20UTC) through [this Zoom link](https://zoom.us/j/471016936?pwd=cXh2RWFib2F4RU1ldVZPM3BNdkcrQT09).
+3. Check out the [team cadence](/documentation/team/cadence.md) to get involved in the daily standups and view the progress of the team.
 
-##
-* Trello [board](https://trello.com/b/8TEQ0gH0) is used to track WIP
-
-* Daily standup is at 15:00 Pacific/ 22:00 UTC in [Zoom](https://zoom.us/j/471016936?pwd=cXh2RWFib2F4RU1ldVZPM3BNdkcrQT09)
-
-* Standup items can be added to the Trello Agenda [card](https://trello.com/c/xOgDRhFu/22-daily-standup-agenda)
+4. Read the [team engagement guide](/documentation/guidance/team-engagement.md) and take a look at the [documentation](/documentation) directory.
 
 
-### How can I transfer/create a repository under this organization?
+## Transfering or creating a repository
 
-Please **[create a repository request issue](https://github.com/helpfulengineering/devops/issues/new?assignees=0x2b3bfa0%2C+PrinsFrank&labels=repository+request&template=repository-request.md&title=Repository+request%3A+%5Bproject-name%5D)** and fill the required information.
-
-### Who should I ask about X?
-
-Follow the directory link below
+**[Create a repository request issue](https://github.com/helpfulengineering/devops/issues/new?assignees=0x2b3bfa0%2C+PrinsFrank&labels=repository+request&template=repository-request.md&title=Repository+request%3A+%5Bproject-name%5D)** and fill the required information.
 
 ***
 
@@ -58,4 +45,4 @@ Follow the directory link below
 | Zendesk | |
 | ZenQMS | [@Pierre Lonchampt](https://helpfulengineering.slack.com/team/U01019PPAQL)|
 
-**You can find the team directory at [/documentation/team/directory.md](/documentation/team/directory.md)**
+**You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**

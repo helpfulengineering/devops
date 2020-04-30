@@ -1,6 +1,6 @@
 # Directory
 
-## Core teams
+## Core Teams
 
 | Role | Slack | Responsibilities |
 | --- | --- | --- |
@@ -8,13 +8,13 @@
 | AWS Team | **[@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9)**, [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) and [@Chris Mac](https://helpfulengineering.slack.com/team/U0101D9734M) | Managing project related AWS accounts,  infrastructure and security policies for project Admins and [Liason Teams](#liason-teams) |
 | Azure Team | **[@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83)** and [@Jonathan Vermeij](https://helpfulengineering.slack.com/team/UV40B6S82) |
 | GCP Team | **[@Rebecca Johns](https://app.slack.com/team/U0108S72KL4)** | [@Denis Angell](https://helpfulengineering.slack.com/team/UV98JL211), [@Radu Toev](https://helpfulengineering.slack.com/team/U01057X9C7N) |
-| Auth Team | **[@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV)** and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4) | Administration of Auth0 Tenants, providing [authn/authz guidance](/documentation/guidance/authentication-and-authorization.md) and integration 
+| Auth Team | **[@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV)** and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4) | Administration of Auth0 Tenants, providing [authn/authz guidance](/documentation/guidance/authentication-and-authorization.md) and integration
 | DNS Team |  | Administration of Helpful Engineering related DNS entries on (AWS/GCP?)
 | Infosec Team | **[@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY)** | Security Assessments and review
 
 _Note: **@usernames** in bold denote the primary point of contact for each team._
 
-# [Projects](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
+## [Project Teams](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories)
 
 <!-- Ideally -->
 Each project keeps its own team directory [inside its main repository](https://github.com/search?q=topic%3Aproject+org%3Ahelpfulengineering&type=Repositories).
@@ -32,7 +32,7 @@ Each project keeps its own team directory [inside its main repository](https://g
 | [#doc-controls](https://helpfulengineering.slack.com/archives/C010AN9RXNV) Notion integration| [@Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) ||
 | Mechanical Turk | [@Brian Campbell](https://app.slack.com/client/TUTSYURT3/D010CEFKSPJ) ||
 
-# Unassigned Volunteers
+## Unassigned Volunteers
 
 | Name | Experience/Skills | Notes |
 | --- | --- | --- |

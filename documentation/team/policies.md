@@ -1,4 +1,4 @@
-## Policies
+# Policies
 
 * All major cloud providers (GCP, Azure, AWS) are treated with equal preference. Some centralized services may be deployed on one cloud over another based on available resources such as staff expertise, cloud vendor support/implementation, or available credits.
 
@@ -12,4 +12,3 @@
 * Public discussion is encouraged as much as possible.  Private conversation should be used for things of a sensitive nature, but there should rarely be discussions and decisions that are generated behind closed doors.
 
 * Team members will endeavor to use inclusive language to make sure that all team members feel welcome in each and every conversation
-
