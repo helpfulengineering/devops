@@ -1,32 +1,25 @@
 # [Helpful Engineering DevOps Team](https://helpfulengineering.slack.com/archives/CV54M16QH)
 
-Welcome to the Helpful Engineering DevOps team. Please check our FAQ below and the documentation in the repository.
-
-***
-
-## :question: FAQ
-
-### How do I get help?
+## Getting help
 
 Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) Slack channel, click the blue lightning bolt (:zap:) in the lower left corner of the message box and select «**Request Help Workflow**»
 
-[![request help](/documentation/images/request-help.png)](https://helpfulengineering.slack.com/archives/CV54M16QH)
+[![request help](/images/request-help.png)](https://helpfulengineering.slack.com/archives/CV54M16QH)
 
-### How do I help out?
+## Helping out
 
-Fill out our skill survey at https://airtable.com/shrisE8yL9W3cegHr and check out our Trello board at https://trello.com/invite/b/8TEQ0gH0/82b3cce6da639b5cebde085def1d2ede/skill-software-devops-projects
+1. Fill out [our skill survey](https://airtable.com/shrisE8yL9W3cegHr).
 
-### When are check-in meetings?
+2. Add yourself to the *unassigned volunteer* list in the [team directory](/documentation/team/directory.md).
 
-Daily at 1500 PT/2200 GMT on zoom: https://zoom.us/j/471016936?pwd=cXh2RWFib2F4RU1ldVZPM3BNdkcrQT09
+3. Check out the [team cadence](/documentation/team/cadence.md) to get involved in the daily standups and view the progress of the team.
 
-### How can I transfer/create a repository under this organization?
+4. Read the [team engagement guide](/documentation/guidance/team-engagement.md) and take a look at the [documentation](/documentation) directory.
 
-Please **[create a repository request issue](https://github.com/helpfulengineering/devops/issues/new?assignees=0x2b3bfa0%2C+PrinsFrank&labels=repository+request&template=repository-request.md&title=Repository+request%3A+%5Bproject-name%5D)** and fill the required information.
 
-### Who should I ask about X?
+## Transfering or creating a repository
 
-Follow the directory link below
+**[Create a repository request issue](https://github.com/helpfulengineering/devops/issues/new?assignees=0x2b3bfa0%2C+PrinsFrank&labels=repository+request&template=repository-request.md&title=Repository+request%3A+%5Bproject-name%5D)** and fill the required information.
 
 ***
 
@@ -42,7 +35,7 @@ Follow the directory link below
 | Google Analytics |  |
 | Google Cloud Platform (GCP) | [@Rebecca Johns](https://app.slack.com/team/U0108S72KL4) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | [Helpful main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
-| 1Password (secure password storage)| Read the [credential sharing guide](/guidance/credential-sharing.md) or message [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) in [#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)|
+| 1Password (secure password storage)| Read the [credential sharing guide](/documentation/guidance/credential-sharing.md) or message [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) in [#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)|
 | Launch Darkly | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
 | Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
