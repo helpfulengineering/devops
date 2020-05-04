@@ -1,4 +1,4 @@
-# Authentication and Authorization Gudiance
+# Authentication and Authorization Guidance
 
 ## Resources available through Helpful Engineering
 Currently Auth0 is the only authentication service provided by Helpful Engineering.  Approved projects are given access to both a development and production authentication [tenant](https://auth0.com/docs/videos/get-started/01-architecture-your-tenant) as needed to allow for environments to host a stable authentication service as well as an environment for testing changes.
@@ -15,7 +15,7 @@ See [Browser-Based vs. Native Login Flows on Mobile Devices](https://auth0.com/d
 ### SPA Applications
 SPA (Single-Page Applications) that are generally built using a Javascript framework in a Browser that communicates with an API backend service, should use a similar approach to Mobile Applications.  SPAs should use the OIDC protocol which will force a redirect to the Auth0 authorize endpoint when authentication of a user is required.  
 
-SPAs should not store a refresh token that can optionally be provided by Auth0, but should perform a silent token refresh in the browser to securely obtain a new token using the secure samesite cookie stored in the browser based on the user's authentication with Auth0.  If you do use this approach, then it will be required to use a custom domain on Auth0 to ensure that XSS protections in some browsers don't restrict the silent token refresh from succeeding.  See [Renew Tokens When Using Safari](https://auth0.com/docs/api-auth/token-renewal-in-safari) for more details on this. 
+SPAs should not store a refresh token that can optionally be provided by Auth0, but should perform a silent token refresh in the browser to securely obtain a new token using the secure samesite cookie stored in the browser based on the user's authentication with Auth0.  If you do use this approach, then it will be required to use a custom domain on Auth0 to ensure that XSS protections in some browsers don't restrict the silent token refresh from succeeding.  See [Renew Tokens When Using Safari](https://auth0.com/docs/api-auth/token-renewal-in-safari) for more details on this.
 
 ### Backend Applications
 Backend Applications that can store tokens in a secure samesite cookie created from a the back-end website process have more flexibility in the lifetime of tokens and storing of refresh tokens for retreival of new access tokens.
