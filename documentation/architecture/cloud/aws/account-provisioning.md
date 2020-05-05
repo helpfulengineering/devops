@@ -77,7 +77,7 @@ Navigate to the [AWS SSO console](https://us-east-2.console.aws.amazon.com/singl
 
 Switch to the `us-east-2` region if you are not already there because AWS SSO is region-specific.
 
-Create `he-<project name>-admins` and `he-<project name>-developer` groups in SSO if they do not already exist.  Assign
+Create `he-<project name>-admins` and `he-<project name>-developers` groups in SSO if they do not already exist.  Assign
 the DevOps liaison and project leaders to the admins group.  Assign all project team members that need access to the 
 developer group. 
 
