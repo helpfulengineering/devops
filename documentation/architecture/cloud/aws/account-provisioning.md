@@ -48,9 +48,9 @@ Construct the AWS account name from one of the following forms, all lower case:
 'Monitoring O2' project's development environment is: `he-project-monitoring-o2-dev`
 * another use case: `he-<usecase>`.  For example the sandbox's name is `he-sandbox2`
 
-Back at the 'Account Factory' screen, click 'Quick Account Provisioning'.
+Back at the 'Account Factory' screen, click 'Enroll Account'.
 
-Configure the account's root user email to the devops team email address plus the AWS account name: `devops+he-project-<project name>-<env name>@qualimente.com`
+Configure the account's root user email and SSO email to the devops team email address plus the AWS account name: `devops+he-project-<project name>-<env name>@qualimente.com`
 
 Configure the display name to the AWS account with `<project name>-<env name>`.
 
