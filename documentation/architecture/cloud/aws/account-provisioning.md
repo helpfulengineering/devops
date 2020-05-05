@@ -81,6 +81,10 @@ Create `he-<project name>-admins` and `he-<project name>-developers` groups in S
 the DevOps liaison and project leaders to the admins group.  Assign all project team members that need access to the 
 developer group. 
 
+Navigate to the AWS Accounts section of the AWS SSO console and select the newly created account.  Click the assign users button, select the Groups tab and check the newly created `he-<project name>-admins` group and click 'Next: Permission Sets' button.  Select the 'AWSAdministratorAccess' permission set and click Finish.  
+
+Repeat the above step selecting the `he-<project name>-developers` group and selecting the 'AWSPowerUserAccess' permission set.
+
 ### Communicate
 
 Jump into the project team's slack channel and tell the project leaders the accounts have been created.
