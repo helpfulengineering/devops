@@ -26,19 +26,18 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 | https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
 | [#doc-controls](https://helpfulengineering.slack.com/archives/C010AN9RXNV) Notion integration| [@Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) ||
 | Mechanical Turk | [@Brian Campbell](https://app.slack.com/client/TUTSYURT3/D010CEFKSPJ) ||
+| [#project-data](https://helpfulengineering.slack.com/archives/C011EMFH9P0) | **[@peter](https://app.slack.com/team/U010AK510F2)**, [@AlexV](https://app.slack.com/team/UVATNL8HY), [@Vineeth Soma](https://app.slack.com/team/U0111QFRE0N), @Mike Hodnett ||
 
 ## Unassigned Volunteers
 
 | Name | Experience/Skills | Notes |
 | --- | --- | --- |
-| [@AlexV](https://app.slack.com/team/UVATNL8HY) | InfoSec(GDPR,SOC2,ISO2700x,CCPA,NIMS,FedRAMP,IDS/IPS,Container/App security,vulnerability management), DevOps(AWS,GCP,Kubernetes,Docker,Terraform,Python,CI/CD) | Public Safety Industry(RapidSOS), Founder: [CheckUpOn.Me](https://checkupon.me)(Part of [Reach4Help](https://reach4help.org/)), [LinkedIN](https://www.linkedin.com/in/vanino) |
 | [David Perkalis](https://app.slack.com/team/U01052T7XND) | Azure/MSFT stack ||
 | [James King](https://app.slack.com/team/U0107RL042Y) | AWS / GCP / Azure | reserve Army Corps of Engineers |
 | [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
 | [Owen](https://app.slack.com/team/U0100NN6CS1) | AWS (specialize in Lambda), Python ||
 | [Rasmey Sareth](https://app.slack.com/team/U010DLRQW0J) | AWS, terraform, docker, python ||
 | [Uwe Janner](https://app.slack.com/team/U010JJGPQ7K) | Fullstack Java/JS/Node/Angular, AWS | also has  technical project manager experience |
-| [Vineeth Soma](https://app.slack.com/team/U0111QFRE0N) | Arch review, AWS ||
 | [William Riley-Land](https://app.slack.com/team/U0107N17B0D) | node backend, react, AWS (CloudFormation in particular) ||
 | [Mitul Savani](https://app.slack.com/team/U01122NCA1L) | GCP ||
 | [Mike Barker](https://app.slack.com/team/U01011R4WG4) | scrum master / project manager | not a developer |
