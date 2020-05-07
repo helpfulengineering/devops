@@ -23,7 +23,7 @@ Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives
 
 ***
 
-## :clipboard: [Directory](/documentation/directory.md)
+## :clipboard: [Directory](/documentation/team/directory.md)
 | Role | Slack |
 | --- | --- |
 | Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)**, [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
@@ -45,4 +45,4 @@ Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives
 | Zendesk | |
 | ZenQMS | [@Pierre Lonchampt](https://helpfulengineering.slack.com/team/U01019PPAQL)|
 
-**You can find the team directory at [/documentation/directory.md](/documentation/directory.md)**
+**You can find the team directory at [/documentation/directory.md](/documentation/team/directory.md)**
