@@ -48,3 +48,4 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 | [Niko Infanto](https://helpfulengineering.slack.com/team/U011L0X1JAW) | Java / SQL / HTML&CSS / Spring / Hibernate / PHP / ColdFusion | My Developer Profile Website [View](http://nikoinfanto.com)
 | [Mark Tagab](https://helpfulengineering.slack.com/team/TUTSYURT3)  | Java / Kubernetes / Docker / SQL / Digital Ocean /  Shell Scripts | interested in microservices and devops
 | [Ajit Nath](https://helpfulengineering.slack.com/team/U011BLH0WSK) | Python / Java / Clojure / Javascript / Docker / AWS / SQL and NoSQL DBs ||
+| [Andrew Mickael](https://helpfulengineering.slack.com/team/U0132JWEKJR) | React / Redux / JS / Node / Python / Golang / SQL / NoSQL / MongoDB / AWS / Docker ||
