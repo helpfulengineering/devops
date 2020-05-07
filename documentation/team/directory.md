@@ -26,7 +26,7 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 | https://hospitalhero.care/ | [@Andrew Cantino](https://app.slack.com/team/U01098E93PE) ||
 | [#doc-controls](https://helpfulengineering.slack.com/archives/C010AN9RXNV) Notion integration| [@Alberto Llamas](https://app.slack.com/team/U010F9N6YD7) ||
 | Mechanical Turk | [@Brian Campbell](https://app.slack.com/client/TUTSYURT3/D010CEFKSPJ) ||
-| [#project-data](https://helpfulengineering.slack.com/archives/C011EMFH9P0) | **[@peter](https://app.slack.com/team/U010AK510F2)**, [@AlexV](https://app.slack.com/team/UVATNL8HY), [@Vineeth Soma](https://app.slack.com/team/U0111QFRE0N), @Mike Hodnett ||
+| [#project-data](https://helpfulengineering.slack.com/archives/C011EMFH9P0) | **[@peter](https://app.slack.com/team/U010AK510F2)**, [@AlexV](https://app.slack.com/team/UVATNL8HY), [@Vineeth Soma](https://app.slack.com/team/U0111QFRE0N), [@Mike Hodnett](https://helpfulengineering.slack.com/team/U013FQQGPTK) ||
 
 ## Unassigned Volunteers
 
