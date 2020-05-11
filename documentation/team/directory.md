@@ -49,3 +49,4 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 | [Mark Tagab](https://helpfulengineering.slack.com/team/TUTSYURT3)  | Java / Kubernetes / Docker / SQL / Digital Ocean /  Shell Scripts | interested in microservices and devops
 | [Ajit Nath](https://helpfulengineering.slack.com/team/U011BLH0WSK) | Python / Java / Clojure / Javascript / Docker / AWS / SQL and NoSQL DBs ||
 | [Andrew Mickael](https://helpfulengineering.slack.com/team/U0132JWEKJR) | React / Redux / JS / Node / Python / Golang / SQL / NoSQL / MongoDB / AWS / Docker ||
+| [Aleks Clark](https://helpfulengineering.slack.com/team/UU011K0PLB6J) | Scalability / RubyOnRails / React / DevOps / Networking / Linux | bilingual en/es |
