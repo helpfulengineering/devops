@@ -20,7 +20,7 @@ Once you receive an email from 1Password, you can proceed to set up your browser
 
 When changing a password, you should generate the new one with the password manager, so it follows the best security practices and can be automatically shared with all the authorized users. If you're not familiar with 1Password, please check [this tutorial](https://support.1password.com/change-website-password/).
 
-<!--Passwords should be periodically changed for security reasons.-->
+Once users don't need to have access to a given resource anymore, they should notify it to one of the remaining team members, who will be in charge of changing the affected passwords.
 
 ## [1Password user guide](https://support.1password.com)
 
