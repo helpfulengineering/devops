@@ -13,7 +13,7 @@ Those users that only need to manage a group mail account can simply use an indi
 This kind of account, managed by one or many users through a [securely shared password](/documentation/guidance/credential-sharing.md), is not tied to any specific natural person and can be used by up to 4 concurrent users <!-- just in case, to avoid tripping bot protection -->. Its main purpose is enabling multiple or variable users to access Google-specific services like Analytics or Drive, and should not be requested only for mail exchange (see below).
 
 #### Group mail
-In those cases where mailing is the only need for an «account», there is a much better alternative known as _shared inbox_, that allows multiple users to send and receive mail from their individual accounts without additional overhead. For more information about its usage, please check the [Shared Inbox](./shared-inbox.md) document. 
+In those cases where mailing is the only need for an «account», there is a much better alternative known as _shared inbox_, that allows multiple users to send and receive mail from their individual accounts without additional overhead. These shared inboxes can be managed through [Google Groups](https://groups.google.com/a/helpfulengineering.org/forum/#!myforums), nearly like normal account inboxes. 
 
 ## Naming
 Though there were some exceptions in the early stages of the provisioning process, all the newly created personal accounts should be named following the well-known convention of concatenating the initial of the first name and the complete last name (*exempli gratia:* John Doe => `jdoe@helpfulengineering.org`). <!-- let's hope we don't have any user called Ajani Erkson -->
