@@ -1,7 +1,7 @@
 # Helpful Engineering G Suite - Account Policy
 
 ## Types
-Accounts can be divided in two major categories: personal accounts, external accounts and purpose-specific accounts. The latter should be avoided whenever possible lest losing fine-grained control over individual permissions, but they're required for some specific use cases like Google Analytics and common file storage.
+Accounts can be divided in three major categories: personal accounts, external accounts and shared (purpose-specific) accounts. Shared accounts will be created only in very specific cases where several individuals need access to a single account for access to G Suite managed resources such as Google Analytics and common file storage.
 
 ### Personal account
 These full-fledged accounts, which are tied to a natural person, can access all the G Suite products and, due to the implicit costs, should be only used when group mailing is not an option.
@@ -19,6 +19,5 @@ In those cases where mailing is the only need for an «account», there is a muc
 Though there were some exceptions in the early stages of the provisioning process, all the newly created personal accounts should be named following the well-known convention of concatenating the initial of the first name and the complete last name (*exempli gratia:* John Doe => `jdoe@helpfulengineering.org`). <!-- let's hope we don't have any user called Ajani Erkson -->
 
 All the non-personal accounts and group mail inboxes should have short and descriptive names, unabbreviated whenever possible, which can be easily identified and understood by external users. This document doesn't intend to thoroughly cover naming styles, so simplicity and clarity are the only really important requirements in this case.
-
 
 
