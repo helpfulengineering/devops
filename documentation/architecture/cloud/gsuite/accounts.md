@@ -1,0 +1,24 @@
+# Helpful Engineering G Suite - Account Policy
+
+## Types
+Accounts can be divided in two major categories: personal accounts, external accounts and purpose-specific accounts. The latter should be avoided whenever possible lest losing fine-grained control over individual permissions, but they're required for some specific use cases like Google Analytics and common file storage.
+
+### Personal account
+These full-fledged accounts, which are tied to a natural person, can access all the G Suite products and, due to the implicit costs, should be only used when group mailing is not an option.
+
+### External account
+Those users that only need to manage a group mail account can simply use an individual (external) account tied to a mail group. This way, account management costs can be considerably reduced without impacting the efficiency nor the granular access control to group-managed mail accounts.
+
+### Purpose-specific account
+This kind of account, managed by one or many users through a [securely shared password](/documentation/guidance/credential-sharing.md), is not tied to any specific natural person and can be used by up to 4 concurrent users <!-- just in case, to avoid tripping bot protection -->. Its main purpose is enabling multiple or variable users to access Google-specific services like Analytics or Drive, and should not be requested only for mail exchange (see below).
+
+#### Group mail
+In those cases where mailing is the only need for an «account», there is a much better alternative known as _shared inbox_, that allows multiple users to send and receive mail from their individual accounts without additional overhead. For more information about its usage, please check the [Shared Inbox](./shared-inbox.md) document. 
+
+## Naming
+Though there were some exceptions in the early stages of the provisioning process, all the newly created personal accounts should be named following the well-known convention of concatenating the initial of the first name and the complete last name (*exempli gratia:* John Doe => `jdoe@helpfulengineering.org`). <!-- let's hope we don't have any user called Ajani Erkson -->
+
+All the non-personal accounts and group mail inboxes should have short and descriptive names, unabbreviated whenever possible, which can be easily identified and understood by external users. This document doesn't intend to thoroughly cover naming styles, so simplicity and clarity are the only really important requirements in this case.
+
+
+
