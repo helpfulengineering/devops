@@ -11,6 +11,8 @@
 
 * [Credential sharing](./guidance/credential-sharing.md) and password management for Helpful Engineering members.
 
+* [G Suite](./guidance/gsuite) account policy and guidance.
+
 * [Licensing](./guidance/project-licensing.md) guidelines for newly created or yet unlicensed projects.
 
 * [Team engagement](./guidance/team-engagement.md) recommendations for those who want to collaborate with the DevOps team.
