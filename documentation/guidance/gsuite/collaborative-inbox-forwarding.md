@@ -1,5 +1,5 @@
-# G Suite Shared Inbox Forwarding
-This step by step guide will help you to connect your own Gmail account to a Helpful Engineering mail group (shared inbox). Before you start, please get in touch with a member of the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) team in order to get the pertaining authorizations.
+# G Suite Collaborative Inbox Forwarding
+This step by step guide will help you to connect your own Gmail account to a Helpful Engineering collaborative inbox. Before you start, please get in touch with a member of the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) team in order to get the pertaining authorizations.
 
 ### 1. Enable application access in your account
 If you don't have [two-factor authentication enabled](https://www.google.com/landing/2step/) or don't even know what it is, simply [enable access less secure applications](https://myaccount.google.com/lesssecureapps) in your account. If you have two-factor authentication enabled, please [generate an application-specific password](https://myaccount.google.com/apppasswords) instead.
