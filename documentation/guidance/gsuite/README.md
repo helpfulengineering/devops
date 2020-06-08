@@ -5,7 +5,7 @@
 ## Types
 Accounts can be divided in two major categories: personal accounts, and team accounts.
 
-![Account selection flowchart](/images/gsuite-account-selection-flowchart.svg)
+![Account selection flowchart](/images/gsuite-account-selection-flowchart.png)
 
 ### Team accounts
 
