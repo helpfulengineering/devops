@@ -30,5 +30,5 @@ If you don't have [two-factor authentication enabled](https://www.google.com/lan
 <sup>2</sup> If you encounter any login error, please try visiting https://accounts.google.com/DisplayUnlockCaptcha to authorize the account.
 
 ### 5. Input the verification code
-Just ask for it to a member of [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
+Just ask for it from a member of [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
 ![Step 4](/images/gsuite-group-forwarding-4.png)
