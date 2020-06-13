@@ -7,6 +7,20 @@ Accounts can be divided in two major categories: personal accounts, and team acc
 
 ![Account selection flowchart](/images/gsuite-account-selection-flowchart.png)
 
+**Examples**
+> `info@helpfulengineering.org`: collaborative inbox
+> - Is a mail-only account (inherited from the old mail server)
+> - Might be shared by several users
+
+> `media@helpfulengineering.org`: purpose-specific account
+> - Needs access to services other than mail (Analytics and Drive)
+> - Might be shared by several users
+
+> `rjohns@helpfulengineering.org`: personal account
+> - Needs access to services other than mail (G Suite Admin)
+> - Tied to a natural person
+
+
 ### Team accounts
 
 ###### Collaborative inboxes
@@ -24,6 +38,12 @@ These full-fledged accounts, which are tied to a [natural person](https://en.wik
 Though there were some exceptions in the early stages of the provisioning process, all the newly created personal accounts should be named following the well-known convention of concatenating the initial of the first name and the complete last name (*exempli gratia:* John Doe would have `jdoe@helpfulengineering.org` as user name). In the case where this convention produces duplication, additional letters from the first name should be used to generate a unique username: a second user with the name John Doe would result in an address of `jodoe@helpfulengineering.org`.
 
 All the non-personal accounts and group mail inboxes should have short and descriptive names, unabbreviated whenever possible, which can be easily identified and understood by external users. This document doesn't intend to thoroughly cover naming styles, so simplicity and clarity are the only really important requirements in this case.
+
+## Organizational units
+Though it might change in a future, the current organization is structured as follows:
+* `/individuals` -> natural persons.
+* `/projects/example` -> members of the `example` project.
+* `/teams` -> purpose-specific accounts.
 
 ## Administration
 G Suite accounts are being managed through a Google Sheet which serves as frontend to a linked Terraform infrastructure repository. Any changes made to that spreadsheet will be commited to the `master` branch of the infrastructure repository, triggering a `terraform plan` and sending a Slack message to [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) asking for human confirmation before running `terraform apply`. For more information, please check the documentation inside the spreadsheet itself and take a look to the [G Suite Infrastructure main repository](https://github.com/helpfulengineering/infrastructure-gsuite).
