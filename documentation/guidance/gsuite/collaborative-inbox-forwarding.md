@@ -16,18 +16,18 @@ If you don't have [two-factor authentication enabled](https://www.google.com/lan
 | Email address | `info@helpfulengineering.org` | Address of the shared inbox |
 | Treat as an alias | ✓ | Send messages on behalf of the shared inbox account |
 
-### 4. Configure the acount<sup>2</sup>
+### 4. Configure the acount<sup>1</sup>
 ![Step 3](/images/gsuite-group-forwarding-3.png)
 
 | Field | Value | Description |
 | ----- | ----- | ----------- |
-| SMTP Server | `smtp.gmail.com` | Mail server<sup>1</sup> |
+| SMTP Server | `smtp.gmail.com` | Mail server<sup>2</sup> |
 | Username | `my.user` | The part of your own mail address before the at `@` sign |
 | Password | `********` | The password of your own mail account |
 
-<sup>1</sup> Use `smtp.gmail.com` if your own mail account ends with `@gmail.com` or `smtp.helpfulengineering.org` if it ends with `@helpfulengineering.org`.
+<sup>1</sup> **Notice:** you'll only need to complete this step only if you're using a `@gmail.com` account; `@helpfulengineering.org` accunts don't require it.
 
-<sup>2</sup> If you encounter any login error, please try visiting https://accounts.google.com/DisplayUnlockCaptcha to authorize the account.
+<sup>2</sup> Use `smtp.gmail.com` if your own mail account ends with `@gmail.com` or `smtp.helpfulengineering.org` if it ends with `@helpfulengineering.org`. If you encounter any login error, please try visiting https://accounts.google.com/DisplayUnlockCaptcha to authorize the account.
 
 ### 5. Input the verification code
 Just ask for it from a member of [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
