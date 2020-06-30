@@ -16,7 +16,7 @@ If you don't have [two-factor authentication enabled](https://www.google.com/lan
 | Email address | `info@helpfulengineering.org` | Address of the shared inbox |
 | Treat as an alias | ✓ | Send messages on behalf of the shared inbox account |
 
-### 4. Configure the acount<sup>1</sup>
+### 4. Configure the account<sup>1</sup>
 ![Step 3](/images/gsuite-group-forwarding-3.png)
 
 | Field | Value | Description |
