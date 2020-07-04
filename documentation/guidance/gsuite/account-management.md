@@ -11,13 +11,12 @@ For each modification of the previous state, users will add a new record setting
 ### Infrastructure as a Spreadsheet (IaS)
 All the G Suite user, group and organizational unit definitions are being controlled through the [IaS spreadsheet](https://docs.google.com/spreadsheets/d/1NuPuDNSh1afVFQP8oe9i_fLPqftys7-eTd3_5h663cQ/edit), which serves as data provider to the [infrastructure-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) Terraform repository (hence the tongue-in-cheek IaS name).
 
-This sheet provides a declarative way to specify GSuite account state.  You put into it the desired state of all the accounts, and then the github actions scripts make updates though the GSuite API to apply that state.
+This sheet provides a declarative way to specify G Suite account state. You just need to put into it the desired state of all the accounts and groups, and, once you check the `apply` box, the GitHub Action in the `infrastructure-gsuite` repository will perform the required updates through the G Suite API.
 
 ### End-to-end flow example
-End user wants a change (e.g. add a new user).  They put in a (create) request in the [User Oriented Template](#user-oriented-template) by adding a row (with action Create) and sending a slack message to #skill-software-devops.
+1. End users request a change (e.g. create a new user) by adding a new record to the [user-oriented template](#user-oriented-template) with the `action` field set to `create` and send a Slack message to #skill-software-devops.
 
-The devops team makes the change (adds a row in this example) in the [Infrastructure as a Spreadsheet](#infrastructure-as-a-spreadsheet-ias).  A script applies that change.  For a "user create", the devops team then goes into the GSuite admin console and does a password reset, and DMs the user with details.  Finally they tick the Done box in the User Oriented Template.
-
+2. The DevOps team makes the change (adds a row in this example) in the [IaS spreadsheet](#infrastructure-as-a-spreadsheet-ias) and it gets automatically applied by a script. Additionally, in the "user create" case, the administrator should issue a password reset from the G Suite administration and send a Slack direct message to the new user with the account details. Finally, the administrator ticks the `done` box in each user-oriented template record.
 ## Common operations
 
 ### Creating users
