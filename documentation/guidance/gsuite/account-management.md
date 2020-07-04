@@ -2,14 +2,21 @@
 
 This administration guide will help you to get started with the basic G Suite administration and account management procedures.
 
-## Infrastructure as a Spreadsheet (IaS)
-All the G Suite user, group and organizational unit definitions are being controlled through [the IaS spreadsheet](https://docs.google.com/spreadsheets/d/1NuPuDNSh1afVFQP8oe9i_fLPqftys7-eTd3_5h663cQ/edit), which serves as data provider to the [infrastructure-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) Terraform repository (hence the tongue-in-cheek IaS name).
-
+## The process
 ### User-oriented template
-As modifying the aforementioned spreadsheet can lead to potentially destructive actions, there is [another spreadsheet](https://docs.google.com/spreadsheets/d/1DkFzpWWR9FbmDZ281I7U6KoeaEJd42L2TgG-II1YR4o/edit) owned by [Craig Sharp](https://helpfulengineering.slack.com/archives/D011RS8SK89) where the `operations` team can freely [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) their infrastructure.
+[This sheet](https://docs.google.com/spreadsheets/d/1DkFzpWWR9FbmDZ281I7U6KoeaEJd42L2TgG-II1YR4o/edit) owned by [Craig Sharp](https://helpfulengineering.slack.com/archives/D011RS8SK89) is where the `operations` team can freely [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) their infrastructure.
 
 For each modification of the previous state, users will add a new record setting the `action` field accordingly (either `create`, `update` or `delete`), and you'll only need to paste the values into the main IaS sheet and tick the `done` box to keep track of what changes have been applied.
 
+### Infrastructure as a Spreadsheet (IaS)
+All the G Suite user, group and organizational unit definitions are being controlled through the [IaS spreadsheet](https://docs.google.com/spreadsheets/d/1NuPuDNSh1afVFQP8oe9i_fLPqftys7-eTd3_5h663cQ/edit), which serves as data provider to the [infrastructure-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) Terraform repository (hence the tongue-in-cheek IaS name).
+
+This sheet provides a declarative way to specify G Suite account state. You just need to put into it the desired state of all the accounts and groups, and, once you check the `apply` box, the GitHub Action in the `infrastructure-gsuite` repository will perform the required updates through the G Suite API.
+
+### End-to-end flow example
+1. End users request a change (e.g. create a new user) by adding a new record to the [user-oriented template](#user-oriented-template) with the `action` field set to `create` and send a Slack message to #skill-software-devops.
+
+2. The DevOps team makes the change (adds a row in this example) in the [IaS spreadsheet](#infrastructure-as-a-spreadsheet-ias) and it gets automatically applied by a script. Additionally, in the "user create" case, the administrator should issue a password reset from the G Suite administration and send a Slack direct message to the new user with the account details. Finally, the administrator ticks the `done` box in each user-oriented template record.
 ## Common operations
 
 ### Creating users
