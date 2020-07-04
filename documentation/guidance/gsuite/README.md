@@ -46,11 +46,8 @@ Though it might change in a future, the current organization is structured as fo
 * `/projects/example` -> members of the `example` project.
 * `/teams` -> purpose-specific accounts.
 
-## Administration
-G Suite accounts are being managed through a Google Sheet which serves as frontend to a linked Terraform infrastructure repository. Any changes made to that spreadsheet will be commited to the `master` branch of the infrastructure repository, triggering a `terraform plan` and sending a Slack message to [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) asking for human confirmation before running `terraform apply`. For more information, please check the documentation inside the spreadsheet itself and take a look to the [G Suite Infrastructure main repository](https://github.com/helpfulengineering/infrastructure-gsuite).
+## Guides
 
-Please check the following user guides for more information:
-* [**Collaborative inbox for users:** setting up forwarding](./collaborative-inbox-forwarding.md)
-
-## User guides
+* [**Basic guide for administrators:** account management](./account-management.md)
+* [**Advanced guide for administrators:** infrastructure maintenance](./infrastructure-maintenance.md)
 * [**Collaborative inbox for users:** setting up forwarding](./collaborative-inbox-forwarding.md)

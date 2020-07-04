@@ -3,7 +3,7 @@
 This administration guide will help you to get started with the basic G Suite infrastructure maintenance procedures.
 
 ## Terraform
-All the G Suite infrastructure is being managed through the [terraform-provider-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) repository.
+All the G Suite infrastructure is being managed through the [infrastructure-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) repository.
 
 ### Provider
 Internally, the infrastructure is being managed through a custom provider hosted inside the [terraform-provider-gsuite](https://github.com/helpfulengineering/terraform-provider-gsuite) repository. If you ever need to modify it, please take a look to the latest commits by `0x2b3bfa0` and don't forget to update the binaries inside the `built-plugin` branch: they are being loaded as a `git submodule` by the infrastructure repository.
