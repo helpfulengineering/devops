@@ -78,6 +78,8 @@ If you add new members to one or more collaborative inboxes, you can send them a
 >
 > _If you have any additional question, just reply to this message._
 
+In order to complete the [configuration process](https://github.com/helpfulengineering/devops/blob/master/documentation/guidance/gsuite/collaborative-inbox-forwarding.md), users will need a confirmation code that can be retrieved by visiting [this link](https://groups.google.com/all-groups) from a privileged G Suite administrator account. You can send it when asked through a Slack direct message.
+
 ### Removing users from a collaborative inbox
 Just delete the user from the corresponding `Aliases/Members` fields on the IaS spreadsheet and send a Slack direct message following this template:
 
