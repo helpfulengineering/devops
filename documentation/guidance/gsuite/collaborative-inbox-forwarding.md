@@ -2,12 +2,12 @@
 This step by step guide will help you to connect your own Gmail account to a Helpful Engineering collaborative inbox. Before you start, please get in touch with a member of the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) team in order to get the pertaining authorizations.
 
 ### 1. Enable application access in your account
-If you don't have [two-factor authentication enabled](https://www.google.com/landing/2step/) or don't even know what it is, simply [enable access less secure applications](https://myaccount.google.com/lesssecureapps) in your account. If you have two-factor authentication enabled, please [generate an application-specific password](https://myaccount.google.com/apppasswords) instead.
+If you don't have [two-factor authentication enabled](https://www.google.com/landing/2step/) or don't even know what it is, simply [enable access for less secure applications](https://myaccount.google.com/lesssecureapps) in your account. If you have two-factor authentication enabled, please [generate an application-specific password](https://myaccount.google.com/apppasswords) instead.
 
 ### 2. Open your [account import settings](https://mail.google.com/mail/#settings/accounts) to add another address
 ![Step 1](/images/gsuite-group-forwarding-1.png)
 
-### 3. Fill the shared inbox details
+### 3. Fill the collaborative inbox details
 ![Step 2](/images/gsuite-group-forwarding-2.png)
 
 | Field | Value | Description |
@@ -19,15 +19,16 @@ If you don't have [two-factor authentication enabled](https://www.google.com/lan
 ### 4. Configure the account<sup>1</sup>
 ![Step 3](/images/gsuite-group-forwarding-3.png)
 
+You'll only need to complete this step only if your personal account is using a `@gmail.com` address; personal accounts ending with `@helpfulengineering.org` will skip directly to the next step.
+
 | Field | Value | Description |
 | ----- | ----- | ----------- |
-| SMTP Server | `smtp.gmail.com` | Mail server<sup>2</sup> |
-| Username | `my.user` | The part of your own mail address before the at `@` sign |
+| SMTP Server | `smtp.gmail.com` | Mail server |
+| Username | `my.user` | The part of **your own** mail address before the at `@` sign |
 | Password | `********` | The password of your own mail account |
 
-<sup>1</sup> **Notice:** you'll only need to complete this step only if you're using a `@gmail.com` account; `@helpfulengineering.org` accunts don't require it.
+**Note:** if you encounter any login error, please try visiting https://accounts.google.com/DisplayUnlockCaptcha to authorize the account.
 
-<sup>2</sup> Use `smtp.gmail.com` if your own mail account ends with `@gmail.com` or `smtp.helpfulengineering.org` if it ends with `@helpfulengineering.org`. If you encounter any login error, please try visiting https://accounts.google.com/DisplayUnlockCaptcha to authorize the account.
 
 ### 5. Input the verification code
 Just ask for it from a member of [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
