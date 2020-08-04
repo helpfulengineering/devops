@@ -6,13 +6,14 @@ The DevOps and Infosec teams maintain a master account to store, manage and shar
 
 :warning: Credentials should **never** be shared outside the password manager: please **do not** send passwords in plaintext by any other means.
 
-## Getting started
+## Getting an account
 
-Just create an account request from the Slack shortcut menu (:zap: on the bottom-left corner) and you'll be added to the 1Password team with access to the shared secrets you're allowed to use; if you already have a 1Password account, you can use the same email address when requesting access. Your request will need to be approved by [@admin-group](https://helpfulengineering.slack.com/admin/user_groups) unless you already belong to it.
+1. Make a request from the Slack shortcut menu (:zap: on the bottom-left corner) and specify which vaults and secrets you're going to use. If you already have a personal account, you can use the same address for both. 
+    ![:zap: shortcut menu](/images/1password-account-request.png)    
 
-![:zap: shortcut menu](/images/1password-account-request.png)
+2. Your request will be manually triaged and approved by an authorized administrator from [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH). Please note that this process is not instantaneous and depends on timezones and human availabiilty.
 
-Once you receive an email from 1Password, you can proceed to set up your browser and devices following [this guide](https://support.1password.com/explore/team-member/)
+3. Once your account gets approved and you receive the corresponding informational mail, you can proceed to set up your browser and devices following [this guide](https://support.1password.com/explore/team-member/).
 
 :warning: **Do not forget your master password nor your [secret key](https://support.1password.com/secret-key-security/)!** They are unique to you and cannot be reset by anybody; losing them will keep you from accessing all your passwords.
 
