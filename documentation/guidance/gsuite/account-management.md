@@ -13,7 +13,7 @@ All the G Suite user, group and organizational unit definitions are being contro
 
 This sheet provides a declarative way to specify G Suite account state. You just need to put into it the desired state of all the accounts and groups, and, once you check the `apply` box, the GitHub Action in the `infrastructure-gsuite` repository will perform the required updates through the G Suite API.
 
-> :book: Please note that, due to the lack of mail support for the spreadsheet owner account, the only way of requesting access is through a current member or by logging in with the [owner credentials](https://start.1password.com/open/i?a=J3YBD4VIJZGH3ORXYSVY6UUFXY&h=helpfulengineering.1password.com&i=nmlfxmdqp5ejzbb42x5fanz3p4&v=brpvigfbzutlo5cnfvolyeikji) and inviting yourself.
+> :book: Please note that, due to the lack of mail support for the spreadsheet owner account, the only ways of requesting access are through a current member or by logging in with the [owner credentials](https://start.1password.com/open/i?a=J3YBD4VIJZGH3ORXYSVY6UUFXY&h=helpfulengineering.1password.com&i=nmlfxmdqp5ejzbb42x5fanz3p4&v=brpvigfbzutlo5cnfvolyeikji) and inviting yourself.
 
 ### End-to-end flow example
 1. End users request a change (e.g. create a new user) by adding a new record to the [user-oriented template](#user-oriented-template) with the `action` field set to `create` and send a Slack message to #skill-software-devops.
