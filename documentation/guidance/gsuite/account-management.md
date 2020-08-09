@@ -4,7 +4,7 @@ This administration guide will help you to get started with the basic G Suite ad
 
 ## The process
 ### User-oriented template
-[This sheet](https://docs.google.com/spreadsheets/d/1DkFzpWWR9FbmDZ281I7U6KoeaEJd42L2TgG-II1YR4o/edit) owned by [Craig Sharp](https://helpfulengineering.slack.com/archives/D011RS8SK89) is where the `operations` team can freely [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) their infrastructure.
+[This sheet](https://docs.google.com/spreadsheets/d/1DkFzpWWR9FbmDZ281I7U6KoeaEJd42L2TgG-II1YR4o/edit), owned by [Craig Sharp](https://helpfulengineering.slack.com/archives/D011RS8SK89), is where the `operations` team can freely [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) their infrastructure.
 
 For each modification of the previous state, users will add a new record setting the `action` field accordingly (either `create`, `update` or `delete`), and you'll only need to paste the values into the main IaS sheet and tick the `done` box to keep track of what changes have been applied.
 
@@ -12,6 +12,8 @@ For each modification of the previous state, users will add a new record setting
 All the G Suite user, group and organizational unit definitions are being controlled through the [IaS spreadsheet](https://docs.google.com/spreadsheets/d/1NuPuDNSh1afVFQP8oe9i_fLPqftys7-eTd3_5h663cQ/edit), which serves as data provider to the [infrastructure-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) Terraform repository (hence the tongue-in-cheek IaS name).
 
 This sheet provides a declarative way to specify G Suite account state. You just need to put into it the desired state of all the accounts and groups, and, once you check the `apply` box, the GitHub Action in the `infrastructure-gsuite` repository will perform the required updates through the G Suite API.
+
+> :book: Please note that, due to the lack of mail support for the spreadsheet owner account, the only ways of requesting access are through a current member or by logging in with the [owner credentials](https://start.1password.com/open/i?a=J3YBD4VIJZGH3ORXYSVY6UUFXY&h=helpfulengineering.1password.com&i=nmlfxmdqp5ejzbb42x5fanz3p4&v=brpvigfbzutlo5cnfvolyeikji) and inviting yourself.
 
 ### End-to-end flow example
 1. End users request a change (e.g. create a new user) by adding a new record to the [user-oriented template](#user-oriented-template) with the `action` field set to `create` and send a Slack message to #skill-software-devops.
