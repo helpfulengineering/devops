@@ -36,7 +36,7 @@ In order to store, retrieve and autocomplete passwords from your web browser or 
   
 If it's your first time using 1Password, you can read or watch the [official getting started guide](https://support.1password.com/getting-started-1password-x) to get familiar with its setup and basic usage, including in-browser autofill and credential saving.
 
-:warning: **Credentials must not be stored outside the password manager**, lest they get outdated or exposed. Passwords will be periodically rotated and updated on the password manager, so you can use the provided autofill functionality and seamlessly keep up with the latest changes.
+:warning: **Credentials must not be stored outside the password manager**, lest they get outdated or exposed. Passwords will be periodically rotated and updated on the password manager, so you can use the provided autofill functionality to seamlessly keep up with the latest changes.
 
 ## Changing passwords
 
