@@ -4,7 +4,7 @@ Whenever possible, no account should be shared with other users. However, in som
 
 The DevOps and Infosec teams maintain a master account to store, manage and share the credentials with the approved users, so secrets are automatically synchronized with the other users' 1Password vaults when they change.
 
-:warning: Credentials should **never** be shared outside the password manager: please **do not** send passwords in plaintext by any other means.
+:warning: Credentials should **never** be shared outside the password manager: please **do not** store or send passwords in plaintext by any other means.
 
 ## Getting an account
 
@@ -19,6 +19,24 @@ The DevOps and Infosec teams maintain a master account to store, manage and shar
 3. Once your account gets approved and you receive the corresponding informational mail, you can proceed to set up your browser and devices following [this guide](https://support.1password.com/explore/team-member/).
 
 :warning: **Do not forget your master password nor your [secret key](https://support.1password.com/secret-key-security/)!** They are unique to you and cannot be reset by anybody; losing them will keep you from accessing all your passwords.
+
+## [Using the password manager](https://support.1password.com/getting-started-1password-x)
+
+In order to store, retrieve and autocomplete passwords from your web browser or mobile device, you'll need to install one of the following extensions:
+
+* Browser:
+  * [Chrome](https://chrome.google.com/webstore/detail/1password-x-–-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
+  * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager)
+  * [Edge](https://microsoftedge.microsoft.com/addons/detail/dppgmdbiimibapkepcbdbmkaabgiofem)
+  * [Safari](https://app-updates.agilebits.com/download/OPM7)
+  * [Brave](https://chrome.google.com/webstore/detail/1password-x-–-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
+* Mobile:
+  * [Android](https://play.google.com/store/apps/details?id=com.agilebits.onepassword)
+  * [iOS](https://apps.apple.com/app/1password-password-manager/id568903335)
+  
+If it's your first time using 1Password, you can read or watch the [official getting started guide](https://support.1password.com/getting-started-1password-x) to get familiar with its setup and basic usage, including in-browser autofill and credential saving.
+
+:warning: **Credentials must not be stored outside the password manager**, lest they get outdated or exposed. Passwords will be periodically rotated and updated on the password manager, so you can use the provided autofill functionality and seamlessly keep up with the latest changes.
 
 ## Changing passwords
 
