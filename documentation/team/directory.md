@@ -32,6 +32,7 @@ _Note: **@usernames** in bold denote the primary point of contact for each team.
 
 | Name | Experience/Skills | Notes |
 | --- | --- | --- |
+| [Ananta Chakravartula](https://app.slack.com/team/U01AH200Q4C) | Linux admin, HPC cluster admin, Cloud, Containers, Automation ||
 | [David Perkalis](https://app.slack.com/team/U01052T7XND) | Azure/MSFT stack ||
 | [James King](https://app.slack.com/team/U0107RL042Y) | AWS / GCP / Azure | reserve Army Corps of Engineers |
 | [Jeremy Bass](https://app.slack.com/team/U010H4XVBML) | Azure ||
