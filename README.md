@@ -26,19 +26,21 @@ Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives
 ## :clipboard: [Directory](/documentation/team/directory.md)
 | Role | Slack |
 | --- | --- |
-| Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)**, [@Ken](https://helpfulengineering.slack.com/team/U0105RNGQC9) and [@jonnyparris](https://helpfulengineering.slack.com/team/U0104HLHP8E) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)** in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Auth0 | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
-| Amazon Web Services (AWS) | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9), [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) and [@Chris Mac](https://helpfulengineering.slack.com/team/U0101D9734M) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
-| Azure | [@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Amazon Web Services (AWS) | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) and [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Azure | [@Praveen Karnati](https://helpfulengineering.slack.com/team/U01AR9RHLQ1), [@Priyanka](https://helpfulengineering.slack.com/team/U01ALPJ01S6) and [@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | CRM / Odoo | [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU) in [#discussion-odoo-resources](https://app.slack.com/client/TUTSYURT3/G010L29KJ4E)|
-| Github Support | [@Frank Prins](https://helpfulengineering.slack.com/team/U010740NECE) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Github Support | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Google Analytics |  |
-| Google Cloud Platform (GCP) | [@Rebecca Johns](https://app.slack.com/team/U0108S72KL4) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
-| [Helpful main web site](https://helpfulengineering.org) | [@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD) |
-| 1Password (secure password storage)| Read the [credential sharing guide](/documentation/guidance/credential-sharing.md) or message [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) in [#skill-infosec](https://app.slack.com/client/TUTSYURT3/CV4TYGC1Z)|
+| Google Cloud Platform (GCP) and G Suite | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) and [@dmangot](https://helpfulengineering.slack.com/team/UV9R7QTU3) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| [Helpful main web site](https://helpfulengineering.org) | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH) |
+| 1Password (secure password storage)| [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Launch Darkly | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
-| MATLAB / Simulink | [@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY) |
-| Onboarding Wiki / Notion | [@Mark](https://helpfulengineering.slack.com/team/UVB7QETA7) |
+| MATLAB / Simulink | <s>[@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY)</s> (probably outdated) |
+| Miro | [@DevHawk](https://helpfulengineering.slack.com/team/U01022TG4EB) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Office 365 | [@Andy Arluk](https://helpfulengineering.slack.com/team/U01077DTECA) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Onboarding Wiki / Notion | [@Prime](https://helpfulengineering.slack.com/team/UV8GHBV1T) |
 | Slack automation | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR)|
 | Terraform Cloud | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Trello | |
