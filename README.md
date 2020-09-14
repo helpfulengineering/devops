@@ -29,7 +29,7 @@ Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives
 | Airtable Support | **[@psprings](https://helpfulengineering.slack.com/team/U010AK510F2)** in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Auth0 | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Amazon Web Services (AWS) | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) and [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
-| Azure | [@Praveen Karnati](https://helpfulengineering.slack.com/team/U01AR9RHLQ1) and [@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
+| Azure | [@Praveen Karnati](https://helpfulengineering.slack.com/team/U01AR9RHLQ1), [@Priyanka](https://helpfulengineering.slack.com/team/U01ALPJ01S6) and [@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | CRM / Odoo | [@Matt Melton](https://helpfulengineering.slack.com/team/U0109QJ8ALV) and [@Ray Carnes](https://helpfulengineering.slack.com/team/U010HQK88MU) in [#discussion-odoo-resources](https://app.slack.com/client/TUTSYURT3/G010L29KJ4E)|
 | Github Support | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Google Analytics |  |
