@@ -34,7 +34,7 @@ Go to the [#skill-software-devops](https://helpfulengineering.slack.com/archives
 | Github Support | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Google Analytics |  |
 | Google Cloud Platform (GCP) | [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) and [@dmangot](https://helpfulengineering.slack.com/team/UV9R7QTU3) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
-| [Helpful main web site](https://helpfulengineering.org) | <s>[@Charles He](https://helpfulengineering.slack.com/team/UUSFSSUTD)</s> |
+| [Helpful main web site](https://helpfulengineering.org) | [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH) |
 | 1Password (secure password storage)| [@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | Launch Darkly | [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) in [#skill-software-devops](https://app.slack.com/client/TUTSYURT3/CV54M16QH)|
 | MATLAB / Simulink | <s>[@Kirthi](https://helpfulengineering.slack.com/team/U011F550YKY)</s> (probably outdated) |
