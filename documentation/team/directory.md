@@ -7,7 +7,7 @@
 | **Main point of contact** | [**@dmangot**](https://helpfulengineering.slack.com/team/UV9R7QTU3), [@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9), [@devhawk](https://app.slack.com/team/U01022TG4EB) |
 | AWS Team | **[@skuenzli](https://helpfulengineering.slack.com/team/UV4C6N0M9)**, [@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV) and [@Chris Mac](https://helpfulengineering.slack.com/team/U0101D9734M) | Managing project related AWS accounts,  infrastructure and security policies for project Admins and [Liason Teams](#liason-teams) |
 | Azure Team | **[@Troy Witthoeft](https://helpfulengineering.slack.com/team/UUXNLFC83)** and [@Jonathan Vermeij](https://helpfulengineering.slack.com/team/UV40B6S82) |
-| GCP Team | **[@Rebecca Johns](https://app.slack.com/team/U0108S72KL4)**, [@Denis Angell](https://helpfulengineering.slack.com/team/UV98JL211) and [@Radu Toev](https://helpfulengineering.slack.com/team/U01057X9C7N) |  |
+| GCP Team | [**@Mohamed Hassan**](https://helpfulengineering.slack.com/team/U01B5A5NWTW) and [@0x2b3bfa0](https://helpfulengineering.slack.com/team/U0103B34HGR), (<s>formerly **[@Rebecca Johns](https://app.slack.com/team/U0108S72KL4)**</s>) |  |
 | Auth Team | **[@imonthercks](https://helpfulengineering.slack.com/team/U01063BPVHV)** and [@deanforan](https://helpfulengineering.slack.com/team/U0103HBR7K4) | Administration of Auth0 Tenants, providing [authn/authz guidance](/documentation/guidance/authentication-and-authorization.md) and integration
 | DNS Team |  | Administration of Helpful Engineering related DNS entries on (AWS/GCP?)
 | Infosec Team | **[@fparks](https://helpfulengineering.slack.com/team/UV23KD9MY)** | Security Assessments and review
