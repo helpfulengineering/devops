@@ -15,7 +15,7 @@ Prepare to provision the account by
 handles
 * asking the project team leads and DevOps team liaison whether the project has network dependencies that require a VPC  
 * logging into the AWS SSO portal and verify you can use the `AWSAdministratorAccess` role of the `he-master` account; 
-if you do not have this role, request assistance in the `#skill-software-devops` slack channel
+if you do not have this role, request assistance in the `#devops` slack channel
 
 ### Provision
 

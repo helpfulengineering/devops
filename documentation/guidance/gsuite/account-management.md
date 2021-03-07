@@ -16,7 +16,7 @@ This sheet provides a declarative way to specify G Suite account state. You just
 > :book: Please note that, due to the lack of mail support for the spreadsheet owner account, the only ways of requesting access are through a current member or by logging in with the [owner credentials](https://start.1password.com/open/i?a=J3YBD4VIJZGH3ORXYSVY6UUFXY&h=helpfulengineering.1password.com&i=nmlfxmdqp5ejzbb42x5fanz3p4&v=brpvigfbzutlo5cnfvolyeikji) and inviting yourself.
 
 ### End-to-end flow example
-1. End users request a change (e.g. create a new user) by adding a new record to the [user-oriented template](#user-oriented-template) with the `action` field set to `create` and send a Slack message to #skill-software-devops.
+1. End users request a change (e.g. create a new user) by adding a new record to the [user-oriented template](#user-oriented-template) with the `action` field set to `create` and send a Slack message to #devops.
 
 2. The DevOps team makes the change (adds a row in this example) in the [IaS spreadsheet](#infrastructure-as-a-spreadsheet-ias) and it gets automatically applied by a script. Additionally, in the "user create" case, the administrator should issue a password reset from the G Suite administration and send a Slack direct message to the new user with the account details. Finally, the administrator ticks the `done` box in each user-oriented template record.
 ## Common operations
@@ -97,4 +97,4 @@ Just delete the user from the corresponding `Aliases/Members` fields on the IaS 
 
 Once you perform all the desired operations, please check the `apply` checkbox on the IaS spreadsheet and wait for the system to automatically commit the changes to the [infrastructure-gsuite](https://github.com/helpfulengineering/infrastructure-gsuite) repository. This may take up to a dozen of minutes because it depends on a scheduled GitHub action.
 
-When it's done, the checkbox will be automatically unchecked and the [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) Slack channel will get an automated message asking for manual confirmation before running `terraform apply`.
+When it's done, the checkbox will be automatically unchecked and the [#devops](https://helpfulengineering.slack.com/archives/CV54M16QH) Slack channel will get an automated message asking for manual confirmation before running `terraform apply`.

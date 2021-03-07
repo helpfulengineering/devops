@@ -10,12 +10,12 @@ Tips for a successful engagement:
 
 * Engage early and often. We can often accelerate the time that would be required to successfully deliver a project.
 * Bring (proposed) architecture diagrams if you have them. We can often spot faster, easier, cheaper ways of achieving the same objectives.
-* If you have DevOps engineers, consider having them join #skill-software-devops. The more we know about that status of your project, the better we can help plan for success. If you do not have one (or more) of those engineers on your team, we'd be happy to assign a Liaison team to cooperate with you on a successful launch.
+* If you have DevOps engineers, consider having them join #devops. The more we know about that status of your project, the better we can help plan for success. If you do not have one (or more) of those engineers on your team, we'd be happy to assign a Liaison team to cooperate with you on a successful launch.
 * Bring questions! Especially if you are stuck for how to handle an infrastructure type problem, like authentication.
 * Read the documentation in this GitHub repo.
 * Attend one of our daily standups. There are often a number of engineers on this call and it can be a quick way of kick starting the engagement.
 * When possible, try and stick to standard platforms which will make it easier to find engineers with whom to collaborate.
 
-With or without these, please feel free to drop into [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH) and start a thread about your project.
+With or without these, please feel free to drop into [#devops](https://helpfulengineering.slack.com/archives/CV54M16QH) and start a thread about your project.
 
 We're looking forward to working with you!
