@@ -12,9 +12,9 @@ The DevOps and Infosec teams maintain a master account to store, manage and shar
 
     ![:zap: shortcut menu](/images/1password-account-request.png)    
 
-2. Your request will be manually triaged and approved by an authorized administrator from [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
+2. Your request will be manually triaged and approved by an authorized administrator from [#devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
 
-    Please note that this process is not instantaneous: it may take up to 24 hours because of timezone differences and other human factors. Duplicate requests and at-mentioning people in Slack will not elicit a faster approval, though you can expedite the process by bringing the pertaining authorizations in advance to [#skill-software-devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
+    Please note that this process is not instantaneous: it may take up to 24 hours because of timezone differences and other human factors. Duplicate requests and at-mentioning people in Slack will not elicit a faster approval, though you can expedite the process by bringing the pertaining authorizations in advance to [#devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
 
 3. Once your account gets approved and you receive the corresponding informational mail, you can proceed to set up your browser and devices following [this guide](https://support.1password.com/explore/team-member/).
 
