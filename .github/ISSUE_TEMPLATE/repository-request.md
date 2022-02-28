@@ -3,7 +3,7 @@ name: Repository request
 about: Request the creation or migration of a repository to this organization
 title: 'Repository request: [project-name]'
 labels: repository request
-assignees: 0x2b3bfa0, PrinsFrank
+assignees: 0x2b3bfa0
 
 ---
 
@@ -23,4 +23,4 @@ assignees: 0x2b3bfa0, PrinsFrank
 - [ ] Software: Apache License, Version 2.0
 - [ ] Guides, instructional videos, and other materials: Creative Commons Attribution 4.0
 
-**Source:** [official licensing guide](/documentation/license-guide.md)
+**Source:** [official licensing guide](/documentation/project-licensing.md)
