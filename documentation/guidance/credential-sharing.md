@@ -8,9 +8,7 @@ The DevOps and Infosec teams maintain a master account to store, manage and shar
 
 ## Getting an account
 
-1. Make a request from the Slack shortcut menu (:zap: on the bottom-left corner) and specify which vaults and secrets you're going to use. If you already have a personal account, you can use the same address for both. 
-
-    ![:zap: shortcut menu](/images/1password-account-request.png)    
+1. Go to the [#devops](https://helpfulengineering.slack.com/archives/CV54M16QH) Slack channel, type `/1Password` on the message field, and select **Request an account**. Then, specify which vaults and secrets you're going to use. If you already have a personal account, you can use the same address for both. 
 
 2. Your request will be manually triaged and approved by an authorized administrator from [#devops](https://helpfulengineering.slack.com/archives/CV54M16QH).
 
