@@ -29,7 +29,7 @@ You'll only need to complete this step only if your personal account is using a 
 | Username | `my.user` | The part of **your own** mail address before the at `@` sign |
 | Password | `********` | The password of your own mail account |
 
-**Note:** if you encounter any login error, please try visiting https://accounts.google.com/DisplayUnlockCaptcha to authorize the account.
+**Note:** if you have MFA set up on your account, you may need to use an "app password" in place of your personal password. To do this, go to https://myaccount.google.com/apppasswords and type an "app name" (just make it the alias you are setting up for simplicity) then click the `Create` button. Use the resulting password *in place of* your personal Gmail account password.
 
 
 ### 5. Input the verification code
